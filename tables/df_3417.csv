@@ -1,0 +1,93 @@
+0,1,2,3,4,5,6,7
+Table 8: Procedure-specific evidence summaries (with recommendations) for non-cancer procedures,,,,,,,
+Procedure,Outcome,"Baseline risk 
+among 1000 
+patients",,"Net benefit per 
+1000 patients 
+with pharma-
+cological 
+prophylaxis*","Certainty 
+in 
+estimate","Recommendations 
+for pharma-
+cological 
+prophylaxis","Recommendations 
+for mechanical 
+prophylaxis"
+"Transurethral 
+resection of 
+the prostate 
+(TURP) or 
+equivalent","Venous 
+thrombo-
+embolism",Low-risk,2.0,-0.1,Low,Weak - against,Weak - against
+,,Medium-risk,4.0,0.9,Low,Weak - against,Weak - against
+,,High-risk,8.0,2.9,Low,Weak - against,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,2.0,,Very low,,
+"Donor 
+nephrectomy, 
+laparoscopic","Venous 
+thrombo-
+embolism",Low-risk,4.0,1.5,Low,Weak - against,Weak – against
+,,Medium-risk,7.0,3.0,Low,Weak - against,Weak – for
+,,High-risk,14,6.5,Low,Weak - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,1.0,,Low,,
+"Donor 
+nephrectomy, 
+open","Venous 
+thrombo-
+embolism",Low-risk,3.0,1.0,Very low,Weak - against,Weak – against
+,,Medium-risk,7.0,3.0,Very low,Weak - against,Weak – for
+,,High-risk,13,6.0,Very low,Weak - for,Weak – for
+,"Bleeding 
+requiring 
+reoperation",,1.0,,Very low,,
+"Recipient 
+nephrectomy, 
+open","Venous 
+thrombo-
+embolism",Low-risk,13,-5.6,Very low,Weak - against*,Weak - for
+,,Medium-risk,27,1.4,Very low,Weak - against*,Weak – for
+,,High-risk,53,14,Very low,Weak – for*,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,23,,Very low,,
+"Prolapse 
+surgery, open","Venous 
+thrombo-
+embolism",Low-risk,2.0,-1.1,Low,Weak - against,Weak – against
+,,Medium-risk,3.0,-0.6,Low,Weak - against,Weak – against
+,,High-risk,7.0,1.4,Low,Weak - against,Weak – for
+,"Bleeding 
+requiring 
+reoperation",,4.0,,Very low,,
+"Reconstructive 
+pelvic surgery 
+(including sling 
+surgery for 
+stress urinary 
+incontinence 
+and vaginal 
+prolapse 
+surgery)","Venous 
+thrombo-
+embolism",Low-risk,1.0,-1.1,Very low,Weak - against,Weak – against
+,,Medium-risk,3.0,-0.1,Very low,Weak - against,Weak – against
+,,High-risk,5.0,0.9,Very low,Weak - against,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,3.0,,Very low,,
+"Percutaneous 
+nephrolitho-
+tomy","Venous 
+thrombo-
+embolism",Low-risk,2.0,-3.7,Very low,Weak - against,Weak – against
+,,Medium-risk,4.0,-2.7,Very low,Weak - against,Weak – against
+,,High-risk,7.0,-1.2,Very low,Weak - against,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,9.0,,Low,,

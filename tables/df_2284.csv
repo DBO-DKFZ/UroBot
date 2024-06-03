@@ -1,0 +1,36 @@
+0,1,2,3
+"Table 6.1.4:  Intra-and peri-operative complications of retropubic RP, laparoscopic RP and RALP",,,
+Predicted probability of event,RALP (%),Laparoscopic RP (%),RRP (%)
+Bladder neck contracture,1.0,2.1,4.9
+Anastomotic leak,1.0,4.4,3.3
+Infection,0.8,1.1,4.8
+Organ injury,0.4,2.9,0.8
+Ileus,1.1,2.4,0.3
+Deep-vein thrombosis,0.6,0.2,1.4
+Predicted rates of event,RALP (%),Laparoscopic RP (%),RRP (%)
+Clavien-Dindo I,2.1,4.1,4.2
+Clavien-Dindo II,3.9,7.2,17.5
+Clavien-Dindo IIIa,0.5,2.3,1.8
+Clavien-Dindo IIIb,0.9,3.6,2.5
+Clavien-Dindo IVa,0.6,0.8,2.1
+Clavien-Dindo V,< 0.1,0.2,0.2
+Grade,Definition,,
+I,"Any deviation from the normal post-operative course not requiring surgical, endoscopic or 
+radiological intervention. This includes the need for certain drugs (e.g., antiemetics, antipyretics, 
+analgesics, diuretics and electrolytes), treatment with physiotherapy and wound infections that are 
+opened at the bedside",,
+II,"Complications requiring drug treatments other than those allowed for Grade I complications; this 
+includes blood transfusion and total parenteral nutrition (TPN)",,
+IIIa,"Complications requiring surgical, endoscopic or radiological intervention
+- intervention not under general anaesthetic",,
+IIIb,"Complications requiring surgical, endoscopic or radiological intervention
+- intervention under general anaesthetic",,
+IVa,"Life-threatening complications; this includes CNS complications (e.g., brain haemorrhage, 
+ischaemic stroke, subarachnoid haemorrhage) which require intensive care, but excludes transient 
+ischaemic attacks (TIAs)
+- single-organ dysfunction (including dialysis)",,
+IVb,"Life-threatening complications; this includes CNS complications (e.g., brain haemorrhage, 
+ischaemic stroke, subarachnoid haemorrhage) which require intensive care, but excludes transient 
+ischaemic attacks (TIAs)
+- multi-organ dysfunction",,
+V,Death of the patient,,

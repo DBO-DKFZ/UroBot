@@ -1,0 +1,32 @@
+0,1
+"6.1	
+Treatment modalities 
+6.1.1	
+Deferred treatment (active surveillance/watchful waiting)
+As PCa is such a common disease, and with the increased rate of early detection of small tumours after the 
+introduction of PSA, there is a distinct risk of over-diagnosis and subsequent over-treatment of the disease [474]. 
+As all available curative treatment options for PCa carry a risk of significant side effects there is a need for 
+conservative treatment options for patients with low risk of dying from their PCa. Data from studies conducted 
+on patients who did not undergo local treatment with up to 25 years of follow-up, with endpoints of OS and CSS, 
+are available. Several series have shown a consistent CSS rate of 82–87% at 10 years [475-478], and 80–95% for 
+T1/T2 and ISUP grade < 2 PCas [479]. In three studies with data beyond 15 years, the CSS was 80%, 79% and 
+58% respectively [475, 477, 478], and two reported 20-year CSS rates of 57% and 32% [475, 477]. The observed 
+heterogeneity in outcomes is due to different inclusion criteria, with some older studies from the pre-PSA era 
+showing worse outcomes [477]. In addition, many patients classified as ISUP grade 1 would now be classified as 
+ISUP grade 2–3 based on the 2005 Gleason classification, suggesting that the above-mentioned results should 
+be considered as minimal. Patients with well-, moderately- and poorly-differentiated tumours had 10-year CSS 
+rates of 91%, 90% and 74%, respectively, correlating with data from a pooled analysis [479]. Observation is 
+most effective in men aged 65–75 years with low-risk PCa [480]. In screen-detected localised PCa there is also a 
+lead-time bias, resulting in a higher rate of early detected PCa, but also an even higher risk of detecting clinically 
+insignificant PCa that never would have caused any problems [474]. Cancer-specific survival from untreated 
+screen-detected PCa in patients with ISUP grade 1–2 is therefore likely to be even higher than for PCa detected 
+of other reasons. Consequently, a high proportion of men with PSA-detected PCa are suitable for conservative 
+treatment.",
+Recommendations,Strength rating
+"Use individual life expectancy, health status, and co-morbidity in PCa management.",Strong
+"Use the Geriatric-8, mini-COG and Clinical Frailty Scale tools for health status screening.",Strong
+Perform a full specialist geriatric evaluation in patients with a G8 score < 14.,Strong
+"Consider standard treatment in vulnerable patients with reversible impairments (after 
+resolution of geriatric problems) similar to fit patients, if life expectancy is > 10 years.",Weak
+Offer adapted treatment to patients with irreversible impairment.,Weak
+Offer symptom-directed therapy alone to frail patients.,Strong

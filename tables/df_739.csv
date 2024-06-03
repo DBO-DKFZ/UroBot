@@ -1,0 +1,71 @@
+0,1
+"Table 6.2:  Probabilities of disease progression in 1, 5 and 10 year(s) for the new EAU NMIBC risk",
+"Risk group
+Probability of Progression and 95% Confidence Interval (CI)
+1 Year
+5 Years
+10 Years",
+,
+New Risk Groups with WHO 2004/2016,
+"Low 
+0.06% (CI: 0.01%−0.43%)
+0.93% (CI: 0.49%−1.7%)
+3.7% (CI: 2.3%−5.9%)",
+"Intermediate 
+1.0% (CI: 0.50%−2.0%)
+4.9% (CI: 3.4%−7.0%)
+8.5% (CI: 5.6%−13%)",
+"High
+3.5% (CI: 2.4%−5.2%)
+9.6% (CI: 7.4%−12%)
+14% (CI: 11%−18%)",
+"Very High
+16% (CI: 10%−26%)
+40% (CI: 29%−54%)
+53% (CI: 36%−73%)",
+New Risk Groups with WHO 1973,
+"Low
+0.12% (CI: 0.02%−0.82%)
+0.57% (CI: 0.21%−1.5%)
+3.0% (CI: 1.5%−6.3%)",
+"Intermediate
+0.65% (CI: 0.36%−1.2%)
+3.6% (CI: 2.7%−4.9%)
+7.4% (CI: 5.5%−10%)",
+"High
+3.8% (CI: 2.6%−5.7%)
+11% (CI: 8.1%−14%)
+14% (CI: 10%−19%)",
+"Very High
+20% (CI: 12%−32%)
+44% (CI: 30%−61%)
+59% (CI: 39%−79%)",
+Summary of evidence,LE
+"The EAU NMIBC 2021 scoring model and risk tables predict the short- and long-term risks of disease 
+progression in individual patients with primary NMIBC using either the WHO 1973 or the WHO 2022 
+classification system (see Section 6.1.2.1).",2b
+"The 2006 EORTC scoring model and risk tables predict the short- and long-term risks of disease 
+recurrence and progression in individual patients with NMIBC using the WHO 1973 classification 
+system (see Section 6.1.1.1).",1b
+"Patients with Ta G1/G2 tumours receiving chemotherapy have been further stratified into 3 risk groups 
+for recurrence, taking into account the history of recurrences, history of intravesical treatment, tumour 
+grade (WHO 1973), number of tumours and adjuvant chemotherapy (see Section 6.1.1.2).",2b
+"In patients treated with 5 to 6 months of BCG, the CUETO scoring model predicts the short- and  
+long-term risks of disease recurrence and progression using the WHO 1973 classification system  
+(see Section 6.1.1.3).",1b
+"In patients receiving at least 1 year of BCG maintenance; prior recurrence rate and number of tumours 
+are the most important prognostic factors for disease recurrence. Stage and grade are the most 
+important prognostic factors for disease progression and disease-specific survival; patient age and 
+grade (WHO 1973) are the most important prognostic factors for OS (see Section 6.1.1.4).",1b
+Recommendations,Strength rating
+"Stratify patients into 4 risk groups to predict progression, according to Table 6.1. A patient’s 
+risk group can be determined using the 2021 EAU risk group calculator available at  
+www.nmibc.net.",Strong
+"For information about the risk of disease progression in a patient with primary TaT1 
+tumours, not treated with bacillus Calmette-Guérin (BCG), use the data from Table 6.2.",Strong
+"Use the 2006 EORTC scoring model to predict the risk of tumour recurrence in individual 
+patients not treated with BCG.",Strong
+"Use the 2016 EORTC scoring model or the CUETO risk scoring model to predict the risk  
+of tumour recurrence in individual patients treated with BCG intravesical immunotherapy 
+(the 2016 EORTC model is calculated for 1 to 3 years of maintenance, the CUETO model  
+for 5 to 6 months).",Strong

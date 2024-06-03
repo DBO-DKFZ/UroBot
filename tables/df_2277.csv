@@ -1,0 +1,42 @@
+0
+Table 5.6: Mandatory elements provided by the pathology report
+Histopathological (sub)type
+"Type of carcinoma, e.g., conventional acinar adenocarcinoma, (small cell) neuroendocrine cell carcinoma or 
+ductal carcinoma"
+"Subtype and unusual variants, e.g., pleomorphic giant cell or mucinous"
+Histological grade
+"Primary (predominant) Gleason grade
+Secondary Gleason grade
+Tertiary Gleason grade (if applicable)
+Global ISUP grade
+Approximate percentage of Gleason grade 4 or 5"
+Tumour quantitation (optional)
+"Percentage of prostate involved
+Size/volume of dominant tumour nodule"
+Pathological staging (pTNM)
+"If extraprostatic extension is present:
+• 
+indicate whether it is focal or extensive (see Section 5.2.9.4.4);
+• 
+specify sites;
+• 
+indicate whether there is seminal vesicle invasion.
+If applicable, regional lymph nodes:
+• 
+location;
+• 
+number of nodes retrieved;
+• 
+number of nodes involved."
+Surgical margins
+"If carcinoma is present at the margin:
+• 
+specify sites;
+• 
+extent: focal or extensive (see Section 5.2.9.4.6)
+• 
+(highest) grade at margin."
+Other
+"Presence of lymphovascular/angio-invasion
+Location of dominant tumour
+Presence of intraductal carcinoma/cribriform architecture"

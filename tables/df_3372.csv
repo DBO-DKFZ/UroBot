@@ -1,0 +1,123 @@
+0,1,2,3,4
+Table 4:  Recommended dataset for reporting of neoplasia of the testis (modified from the International,,,,
+Elements,Required  Recommended*,,Content,Remarks
+Clinical information,,√,"- Not provided 
+-  Previous history of testicular 
+cancer 
+- Previous therapy 
+- Other",Specify each
+"Serum tumour 
+markers",,√,"- Not provided 
+-  If provided within normal limits 
+or 
+-  Specify serum tumour markers 
+used 
+- Specify levels 
+-  Specify date markers were 
+drawn","Select all that apply: 
+Serum tumour 
+markers: LDH (IU/L), 
+AFP (ug/L), β-hCG 
+(IU/L)"
+Operative procedure,√,,"- Not specified
+- Orchidectomy partial
+- Orchidectomy radical
+- Other","Specify side for 
+partial or radical 
+orchidectomy. 
+Specify other"
+Tumour focality,√,,"- Cannot be assessed 
+- Indeterminate
+- Unifocal 
+- Multifocal","If multifocal specify 
+number of tumours in 
+specimen."
+"Maximum tumour 
+dimension",√,,"- Cannot be assessed
+- Dimensions largest tumour (mm)
+-  Dimensions additional tumour 
+nodules#","Specify at least 
+maximum diameter  
+of largest tumour.
+Preferably specified  
+3 dimensions/axes.#"
+"Macroscopic extent 
+of invasion",√,,"- Cannot be assessed
+- Confined to testis 
+- Invades epididymis
+- Invades tunica vaginalis
+- Invades hilar structures 
+- Invades spermatic cord
+- Invades scrotum
+- Other","Select all that apply. 
+If other specify."
+"Block identification 
+key",,√,N/A,"List overleaf or 
+separately with 
+indication of nature 
+and origin of all 
+tissue blocks."
+"Histological tumour 
+type",√,,"-  Germ cell tumour: type and 
+percentage 
+- Other","Use WHO 
+classification (2016).
+If other specify."
+"Microscopic extent 
+of invasion",√,,"-  Rete testis of stromal/
+interstitial type
+- Epididymis
+- Hilar fat 
+- Tunica albuginea# 
+- Tunica vaginalis
+- Spermatic cord
+- Scrotal wall","For all: 
+- not submitted
+- not involved 
+- involved"
+"Lymphovascular 
+extension",√,,"- Not identified
+- Present","If present specify 
+type.#"
+"Intratubular lesions 
+(GCNIS)",√,,"- Not identified 
+- Present 
+- Other intratubular lesions#","If other intratubular 
+lesions present 
+identify type.#"
+Margin status,√,,"- Partial orchidectomy: 
+   . cannot be assessed
+   . involved
+   . not involved 
+- Radical orchidectomy:
+   . cannot be assessed
+   .  spermatic cord margin 
+involved 
+   .  spermatic cord margin not 
+involved
+- Other margin involved","In partial 
+orchidectomy if 
+margin not involved, 
+distance of tumour 
+from closest margin 
+(mm).#
+If other margin 
+involved specify."
+Coexisting pathology,,√,"- None identified
+-  Hemosiderin-laden 
+macrophages 
+- Atrophy
+- Other",If other specify
+Ancillary studies,,√,"- Not performed 
+- Performed",If performed specify
+"Response to 
+neoadjuvant therapy",,√,"- Present 
+- Absent, 
+- No prior treatment, 
+- Cannot be assessed","Explain reasons if 
+cannot be assessed."
+Pathologic staging*,√,,"T classification according to 
+TNM 8th edition (UICC)**","m-multiple primary 
+tumours 
+r-recurrent
+y-post-therapy"

@@ -1,0 +1,87 @@
+0,1,2,3,4,5,6,7
+Table 6:  Procedure-specific evidence summaries with recommendations for kidney procedures for,,,,,,,
+Procedure,Outcome,"Baseline risk 
+among 1000 
+patients",,"Net benefit per 
+1000 patients 
+with pharma-
+cological 
+prophylaxis*","Certainty 
+in 
+estimate","Recommendations 
+for pharma-
+cological 
+prophylaxis","Recommendations 
+for mechanical 
+prophylaxis"
+"Nephrectomy, 
+Laparoscopic 
+partial","Venous 
+thrombo-
+embolism",Low-risk,11,-3.4,Low,Weak - against,Weak – for
+,,Medium-risk,21,1.6,Low,Weak - against,Weak – for
+,,High-risk,42,12,Moderate,Strong - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,17,,"Low/
+Moderate",,
+"Nephrectomy, 
+Open partial","Venous 
+thrombo-
+embolism",Low-risk,10,4.5,Very low,Weak - for,Weak – for
+,,Medium-risk,20,9.5,Very low,Weak - for,Weak – for
+,,High-risk,39,19,Very low,Weak - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,1.0,,Moderate,,
+"Nephrectomy- 
+Robotic 
+partial","Venous 
+thrombo-
+embolism",Low-risk,10,2.4,Moderate,Weak - against,Weak – for
+,,Medium-risk,19,6.9,Moderate,Weak - for,Weak – for
+,,High-risk,39,17,"high-
+quality",Strong - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,5.0,,Moderate,,
+"Nephrectomy, 
+Laparoscopic 
+radical","Venous 
+thrombo-
+embolism",Low-risk,7.0,0.9,Very low,Weak - against,Weak – for
+,,Medium-risk,13,3.9,Very low,Weak - against,Weak – for
+,,High-risk,26,10,Very low,Weak - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,5.0,,Very low,,
+"Nephrectomy, 
+Open radical","Venous 
+thrombo-
+embolism",Low-risk,11,5.2,Low,Weak - for,Weak – for
+,,Medium-risk,22,11,Low,Weak - for,Weak – for
+,,High-risk,44,22,Low,Weak - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,0.5,,Very low,,
+"Radical 
+nephrec-
+tomy with 
+thrombec-
+tomy","Venous 
+thrombo-
+embolism",Low-risk,29,4.0,Very low,Weak - for,Weak - for
+,,Medium-risk,58,19,Very low,Weak - for,Weak - for
+,,High-risk,116,48,Very low,Weak - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,20,,Very low,,
+"Open nephro-
+ureterectomy","Venous 
+thrombo-
+embolism",Low-risk,16,7.7,Very low,Weak - for,Weak - for
+,,Medium-risk,31,15,Very low,Weak - for,Weak - for
+,,High-risk,62,31,Very low,Weak - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,0.5,,Very low,,

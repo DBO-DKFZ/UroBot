@@ -1,0 +1,42 @@
+0,1,2
+Table 6.4.4: Results from the STAMPEDE arm G and LATITUDE studies,,
+,STAMPEDE [892],LATITUDE [765]
+,"ADT
+ADT + AA + P","ADT + placebo
+ADT + AA + P"
+N,"957
+960","597
+602"
+Newly diagnosed N+,"20%
+19%","0
+0"
+Newly diagnosed M+,"50%
+48%","100%
+100%"
+Key inclusion criteria,"Patients scheduled for long-term ADT
+- newly diagnosed M1 or N+ situations
+-  locally advanced (at least two of cT3 cT4, 
+ISUP grade > 4, PSA > 40 ng/mL)
+-  relapsing locally treated disease with a 
+PSA > 4 ng/mL and a PSA-DT < 6 mo.
+or PSA > 20 ng/mL
+or nodal 
+or metastatic relapse","Newly diagnosed M1 disease and 2 out 
+of the 3 risk factors: ISUP grade > 4, 
+> 3 bone lesions, measurable visceral 
+metastasis"
+Primary objective,OS,"OS
+Radiographic PFS"
+Median follow up (mo),40,30.4
+3-yr. OS,"83% (ADT + AA + P)
+76% (ADT)","66% (ADT + AA + P)
+49% (ADT + placebo)"
+HR (95% CI),0.63 (0.52-0.76),0.62 (0.51-0.76)
+M1 only,,
+N,"1,002","1,199"
+3-yr. OS,NA,"66% (ADT + AA + P)
+49% (ADT + placebo)"
+HR (95% CI),0.61 (0.49-0.75),0.62 (0.51-0.76)
+HR,"FFS (biological, radiological, clinical or 
+death): 0.29 (0.25-0.34)","rPFS:
+0.49 (0.39-0.53)"

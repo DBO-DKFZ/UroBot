@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UroGPT</title>
+<link rel="stylesheet" href="static/style.css">
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const textareas = document.querySelectorAll('.text-display');
+    textareas.forEach(textarea => {
+      textarea.style.height = ""; // Reset height to auto-adjust
+      textarea.style.height = textarea.scrollHeight + "px";
+    });
+
+    // Adjust height on input to fit content
+    function autoAdjustHeight(event) {
+      event.target.style.height = "";
+      event.target.style.height = event.target.scrollHeight + "px";
+    }
+
+    textareas.forEach(textarea => {
+      textarea.addEventListener('input', autoAdjustHeight);
+    });
+  });
+</script>
+</head>
+
+<body>
+
+<div class="container">
+<header>
+    <img src="static/logo.png" alt="UroBot Logo" id="logo">
+    <div>
+        <h1>UroBot</h1>
+        <p>Your AI Assistant for Urology Questions</p>
+    </div>
+</header>
+
+
+  <main>
+    <form method="post" class="prompt-form">
+      <textarea name="query" placeholder="Enter your prompt" required rows="1" cols="100" oninput="this.style.height = ''; this.style.height = this.scrollHeight + 'px'"></textarea>
+      <input type="submit" value="Ask UroBot">
+    </form>
+
+    <div class="predefined-questions">
+      <h2>Predefined Questions</h2>
+      <form action="/" method="post">
+        <button type="submit" name="query" value="How common is bladder cancer?">How common is bladder cancer?</button>
+        <button type="submit" name="query" value="What is the prognosis of renal carcinoma?">What is the prognosis of renal carcinoma?</button>
+        <button type="submit" name="query" value="How is penile cancer treated?">How is penile cancer treated?</button>
+        <button type="submit" name="query" value="I have blood in my urine, what could that be?">I have blood in my urine, what could that be?</button>
+      </form>
+    </div>
+
+    <div class="response-group" {% if query %} style="display: block;" {% endif %}>
+      <textarea class="text-display" readonly>{{ 'You: \n' + query if query else 'You asked: ' }}</textarea>
+      <textarea class="text-display" readonly>{{ 'UroBot: \n' + answer if answer else 'Answer: ' }}</textarea>
+    </div>
+
+{% if documents %}
+        <div>
+            {% for doc in documents %}
+                <div class="doc-container">{{ doc|safe }}</div>
+            {% endfor %}
+        </div>
+    {% endif %}
+  </main>
+
+  <footer>
+    <p> &copy; UroBot 2024</p>
+  </footer>
+</div>
+
+<link rel="stylesheet" href="static/style.css">
+
+</body>
+</html>

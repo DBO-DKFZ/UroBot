@@ -1,0 +1,65 @@
+0,1,2,3,4,5
+Table 6.3.5:  Randomised controlled trials comparing salvage radiotherapy combined with androgen,,,,,
+Study,n,Risk groups,"Median 
+FU (mo)",Regimen,Outcome
+"GETUG-AFU 16 
+2019 [1044]","369 RT + ADT  
+374 RT","ISUP grade 
+< 2/3 89%
+ISUP grade  
+> 4 11% 
+cN0",112,"66 Gy PBRT + 6 mo. 
+LHRH analogue 
+66 Gy BPRT","10-yr. 
+PFS: RT + ADT, 64%
+PFS: RT, 49%
+p < 0.0001
+MFS: RT + ADT, 75%
+MFS: RT, 69%
+p = 0.034"
+"RTOG 9601  
+2017 [1043]","384 RT + ADT  
+376 RT","pT2 R1, pT3 
+cN0",156,"64.8 Gy PBRT + 
+bicalutamide 24 mo. 
+64.8 Gy PBRT + 
+placebo","12-yr. 
+cumulative DM
+RT + ADT: 14%
+RT + placebo: 23%
+p = 0.005
+OS
+RT + ADT: 76%
+RT + placebo: 71%
+p = 0.04
+DSM
+RT + ADT: 5.8%
+RT + placebo: 13.4%
+p < 0.001"
+"NRG Oncology/
+RTOG 0534 
+SPPORT [1045]","574 SRT + 
+PBRT + ADT
+578 SRT + 
+ADT
+564 SRT","pT2 or pT3
+ISUP < 5
+Pre SRT  
+PSA: 0.1-2.0","survivors:
+8.2 years","64.8–0.2 Gy PBRT
+64.8–70.2 Gy PBRT
+6 mo. LHRH analogue
+64.8–70.2 Gy PBRT + 
+45 Gy PLNRT
+6 mo. LHRH analogue","5-yr. FFP (primary 
+endpoint)
+70.9% Group 1
+81.3% Group 2
+87.4% Group 3
+Comparisons :
+G 3 vs. G 1:
+p < 0.0001
+G 2 vs. G 1
+p < 0.0001
+G 3 vs. G 2
+p < 0.0027"

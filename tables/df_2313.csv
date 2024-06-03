@@ -1,0 +1,120 @@
+0,1,2,3,4
+Table 6.5.2: Randomised phase III controlled trials - first-line treatment of mCRPC,,,,
+"Study
+Intervention
+Comparison
+Selection criteria
+Main outcomes",,,,
+DOCETAXEL,,,,
+"SWOG 99-16 
+2004 [1200]","docetaxel/EMP, 
+every 3 weeks, 
+60 mg/m2, EMP 
+3 x 280 mg/day","mitoxantrone, 
+every 3 weeks, 
+12 mg/m2 
+prednisone 5 mg 
+BID",,"OS: 17.52 vs. 15.6 mo. 
+(p = 0.02, HR: 0.80; 
+95% CI: 0.67-0.97) 
+PFS: 6.3 vs. 3.2 mo. 
+(p < 0.001)"
+"TAX 327 
+2004, 2008 
+[1190,1201]","docetaxel, every 
+3 weeks, 75 mg/m2 
+prednisone 5 mg 
+BID 
+or 
+docetaxel, weekly, 
+30 mg/m2 
+prednisone 5 mg 
+BID","mitoxantrone, 
+every 3 weeks, 
+12 mg/m2, 
+Prednisone 5 mg 
+BID",,"OS: 19.2 for 3 weekly 
+vs. 17.8 mo. 4-weekly 
+and 16.3 in the control 
+group. 
+(p = 0.004, HR: 0.79, 
+95% CI: 0.67-0.93)"
+ABIRATERONE,,,,
+"COU-AA-302 
+2013, 2014, 2015 
+[1182, 1183, 1202]","abiraterone + 
+prednisone","placebo + 
+prednisone","- No previous docetaxel. 
+- ECOG 0-1. 
+-  PSA or radiographic 
+progression. 
+- No or mild symptoms. 
+- No visceral metastases.","OS: 34.7 vs. 30.3 mo. 
+(HR: 0.81, p = 0.0033). 
+FU: 49.2 mo. rPFS: 
+16.5 vs. 8.3 mo. 
+(p < 0.0001)"
+ENZALUTAMIDE,,,,
+"PREVAIL 
+2014 [1185]",enzalutamide,placebo,"- No previous docetaxel. 
+- ECOG 0-1. 
+-  PSA or radiographic 
+progression. 
+- No or mild symptoms. 
+- 10% had visceral mets.","OS: 32.4 vs. 30.2 mo. 
+(p < 0.001). FU: 22 mo. 
+(p < 0.001 HR: 0.71, 
+95% CI: 0.60-0.84) 
+rPFS: 20.0 mo. vs. 
+5.4 mo. HR: 0.186 
+(95% CI: 0.15-0.23) 
+p < 0.0001)"
+SIPULEUCEL-T,,,,
+"IMPACT2010 
+[1196]",sipuleucel-T,placebo,"-  Some with previous 
+docetaxel. 
+- ECOG 0-1. 
+-  Asymptomatic or 
+minimally symptomatic.","OS: 25.8 vs. 21.7 mo. 
+(p = 0.03 HR: 0.78, 
+95% CI: 0.61-0.98).  
+FU: 34.1 mo. PFS: 
+3.7 vs. 3.6 mo. (no 
+difference)"
+2006 [1203],sipuleucel-T,placebo,"- ECOG 0-1. 
+- No visceral met. 
+-  No corticosteroids.","OS: 25.9 vs. 21.4 mo. 
+(p = 0.1). FU: 36 mo. 
+PFS: 11.7 vs. 10.0 wk."
+IPATASERTIB,,,,
+"IPAtential150
+2021 [1197]","ipatasertib 
+(400 mg/d) + 
+abiraterone 
+(1000 mg/d) + 
+prednisone  
+(5 mg bid)","abiraterone + 
+prednisolone + 
+placebo","Previously untreated for 
+mCRPC, asymptomatic/
+mildly symptomatic, with 
+and without PTEN loss 
+by IHC","rPFS in PTEN loss 
+(IHC) population:  
+18.5 vs. 16.5 mo.  
+(p = 0.0335, HR: 0.77 
+95% CI: 0.61-0.98)"
+PROpel [1198],"olaparib  
+(300mg BID) +  
+abiraterone 
+(1000 mg/d) + 
+prednisone  
+(5 mg BID)","placebo + 
+abiraterone + 
+prednisone","- ECOG 0-1.
+-  regardless of HRRm 
+(retrospective testing).
+-  prior taxane for 
+mHSPC allowed.","HR: 0.66; 95% 
+CI: 0.54–0.81;
+(p = 0.001)"

@@ -1,0 +1,165 @@
+0,1,2,3,4,5,6
+Table 7.1:  Overview phase III trials of PD-1 immune checkpoint inhibitors in adjuvant RCC,,,,,,
+Phase III trial of PD-1 immune checkpoint inhibitors in adjuvant RCC,,,,,,
+Study,N,"Experimental 
+arm","Primary 
+endpoint",Risk groups,"DFS (mo)
+Median (95% CI) 
+HR","OS (mo.)
+Median (95% CI) 
+HR"
+"Keynote-564
+NCT03142334
+Median follow-up  
+of 30.1 mo. [440]",994,"PEMBRO
+200 mg IV 
+Q3W  
+(17 cycles)  
+vs. placebo","DFS in 
+the ITT 
+by IR","Intermediate-
+high: pT2 grade 
+4 or sarcomatoid; 
+pT3 any grade
+High: pT4 any 
+grade, pN1
+M1 NED: cM0 
+after resection of 
+oligometastatic 
+disease < 12 mo.","(ITT)
+PEMBRO: NR (NE)
+PLACEBO: NR (NE)
+HR: 0.63 (95% CI: 
+0.50–0.80)
+p < 0.002
+DFS at 24 mo.:
+PEMBRO: 78.3%
+PLACEBO: 67.3%","(ITT)
+PEMBRO: NR (NE)
+PLACEBO: NR (NE)
+HR: 0.52 (95%  
+CI: 0.31–0.86)
+not significant
+alive at 30 mo.:
+PEMBRO: 95.7%
+PLACEBO: 91.4%"
+"IMmotion010
+NCT03024996
+Median follow-up  
+of 44.7 mo. [442]",778,"ATEZO  
+1200 mg 
+IV Q3W (16 
+cycles or 1 yr.) 
+vs. placebo","DFS in 
+the ITT 
+by IR","By TNM:  
+pT2 grade 4 or 
+sarcomatoid; 
+pT3 a grade 3–4; 
+pT3b/c/T4 any 
+grade, pN1
+M1 NED: cM0 
+after resection of 
+oligometastatic 
+disease 
+(synchronous or  
+> 12 mo.)","(ITT)
+ATEZO: 57.2  
+(44.6–NE)
+PLACEBO: 49.5 
+(47.4–NE)
+HR: 0.93 (95%  
+CI: 0.75–1.15) 
+p = 0.4950
+DFS at 24 mo.: NR","(ITT)
+ATEZO:  
+NE (59.8–NE)
+PLACEBO:  
+NE (NE–NE)
+HR : 0.97 (95%  
+CI: 0.67–1.42)
+alive at 24 mo.: NR"
+"CheckMate 914
+NCT03138512
+Median follow-up 
+of 37.0 mo. [443]",,"816 NIVO 240 mg  
+IV Q2W  
+(× 12 cycles) + 
+IPI 1 mg/kg  
+IV Q6W  
+(× 4 cycles vs. 
+placebo)","DFS in 
+the ITT  
+by BICR","By TNM:  
+pT2a grade 3–4;
+pT2b/T3/T4 any 
+grade, pN1","(ITT)
+NIVO + IPI: NR (NE)
+PLACEBO: 50.7 
+(48.1–NE)
+HR: 0.92 (95%  
+CI: 0.71–1.19) 
+p = 0.5347
+DFS at 24 mo.:
+NIVO + IPI: 76.4%
+PLACEBO: 74.0%",NR
+"PROSPER
+NCT03055013
+Median follow-up: 
+NR [444]",,"779 Neoadjuvant 
+NIVO 240 mg  
+IV Q2W  
+(x 2 cycles) 
+followed by 
+adjuvant  
+NIVO 240 mg 
+Q2W for  
+3 mo. and 
+Q4W for 
+6 mo. vs. 
+observation","RFS in 
+the ITT 
+by IR","By TNM:  
+>/= cT2 (7 cm)  
+or cT any cN1","(ITT), RFS:
+NIVO: NR (NE)
+Observation: NR 
+(NE)
+HR: 0.97 (95%  
+CI: 0.74–1.28) 
+p = 0.43","(ITT)
+NIVO: NR (NE)
+Observation: NR 
+(NE)
+HR: 1.48 (95%  
+CI: 0.89–2.48) 
+p = 0.93"
+Summary of evidence,LE,,,,,
+"Adjuvant sorafenib, pazopanib, everolimus, girentuximab, or axitinib does not improve DFS or OS after 
+nephrectomy.",1b,,,,,
+"In one single RCT, in selected high-risk patients, adjuvant sunitinib improved DFS but not OS.",1b,,,,,
+Adjuvant pembrolizumab defined by the inclusion criteria of the trial* after nephrectomy improves DFS.,1b,,,,,
+Adjuvant PD-L1 inhibition with atezolizumab did not improve DFS or OS.,1b,,,,,
+Adjuvant dual PD-1 and CTLA-4 inhibition with nivolumab and ipilimumab did not improve DFS.,1b,,,,,
+Peri-operative treatment with nivolumab did not improve RFS.,1b,,,,,
+"The lack of biomarker data is hindering progress in this field. Adjuvant RCTs are ongoing to evaluate 
+the benefit of adjuvant immunotherapy after nephrectomy in high-risk patients.",4,,,,,
+Recommendations,Strength rating,,,,,
+"Discuss the contradictory results of the available adjuvant ICI trials with patients to facilitate 
+shared decision making.",Strong,,,,,
+"Inform patients about the potential risk of overtreatment and immune-related side effects if 
+adjuvant therapy is considered.",Strong,,,,,
+"Do not offer adjuvant therapy with sorafenib, pazopanib, everolimus, girentuximab, or 
+axitinib.",Strong,,,,,
+"Do not offer adjuvant sunitinib following surgically resected high-risk clear-cell renal cell 
+carcinoma (ccRCC).",Weak,,,,,
+"Offer adjuvant pembrolizumab to ccRCC patients, preferably within 12–16 weeks post-
+nephrectomy, with a recurrence risk as defined in the Keynote-564 trial:
+•   Intermediate-high risk: 
+•   pT2, grade 4 or sarcomatoid, N0, M0
+•   pT3, any grade, N0, M0
+•   High risk:
+•   pT4, any grade, N0, M0
+•   any pT, any grade, N+, M0
+•   M1 no evidence of disease (NED):
+•   NED after resection of oligometastatic sites < 1 year from nephrectomy",Weak,,,,,

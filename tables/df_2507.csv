@@ -1,0 +1,38 @@
+0,1
+"7.4.3	
+Immunotherapy
+7.4.3.1	
+Immune checkpoint inhibitors
+7.4.3.1.1	 Immuno-oncology monotherapy
+Immune checkpoint inhibitor with monoclonal antibodies targets and blocks the inhibitory T-cell receptor PD-1 
+or cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4)-signalling to restore tumour-specific T-cell immunity 
+[512]. Immune checkpoint inhibitor monotherapy has been investigated as second- and third-line therapy. A 
+phase III trial of nivolumab vs. everolimus after one or two lines of VEGF-targeted therapy for mRCC with a 
+clear cell component (CheckMate 025, NCT01668784) reported a longer OS, better QoL and fewer grade 3 or 
+4 AEs with nivolumab than with everolimus [513]. Nivolumab has superior OS to everolimus (HR: 0.73, 95% 
+CI: 0.57–0.93, p < 0.002) in VEGF-refractory RCC with a median OS of 25 months for nivolumab and 19.6 
+months for everolimus with a 5-year OS probability of 26% vs. 18% [514] (LE: 1b). Patients who had failed 
+multiple lines of VEGF-targeted therapy were included in this trial making the results broadly applicable. The 
+trial included 15% MSKCC poor-risk patients. There was no PFS advantage with nivolumab despite the OS 
+advantage. Progression-free survival does not appear to be a reliable surrogate of outcome for PD-1 therapy in 
+RCC. Currently PD-L1 biomarkers are not used to select patients for this therapy.",
+"Summary of evidence 
+LE",
+Treatment-naïve patients,
+"Currently, PD-L1 expression is not used for patient selection.",2b
+"The combination of nivolumab and ipilimumab in treatment-naïve patients with cc-mRCC of IMDC 
+intermediate- and poor risk demonstrated OS and ORR benefits compared to sunitinib alone.",1b
+"The combination of pembrolizumab plus axitinib, lenvatinib plus pembrolizumab and nivolumab plus 
+cabozantinib in treatment-naïve patients with cc-mRCC across all IMDC risk groups demonstrated 
+PFS, OS and ORR benefits compared to sunitinib.",1b
+"Nivolumab plus ipilimumab, pembrolizumab plus axitinib, nivolumab plus cabozantinib and lenvatinib 
+plus pembrolizumab should be administered in centres with experience of immune combination 
+therapy and appropriate supportive care within the context of a multidisciplinary team.",4
+"The combination of nivolumab plus ipilimumab in the IMDC intermediate- and poor-risk population of 
+treatment-naïve patients with cc-mRCC leads to superior survival compared to sunitinib.",2b
+Sequencing systemic therapy,
+"Nivolumab leads to superior OS compared to everolimus in disease progression after one or two lines 
+of VEGF-targeted therapy.",1b
+"Axitinib, cabozantinib or lenvatinib can be continued if immune-related AEs result in cessation 
+of axitinib plus pembrolizumab, cabozantinib plus nivolumab or lenvatinib plus pembrolizumab. 
+Re-challenge with immunotherapy requires expert support.",4

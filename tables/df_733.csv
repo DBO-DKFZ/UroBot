@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6,7,8,9
+Table 8.1: Urinary markers in the surveillance setting*,,,,,,,,,
+Marker,"Sensitivity 
+overall",HG,"Specificity 
+overall",HG,"PPV 
+overall",HG,"NPV 
+overall",HG,"N  studies/
+patients"
+"XPERT BC® 
+MONITOR",0.72,0.88,0.76,0.75,0.43,0.18,0.92,0.99,10/> 2000
+EpiCheckTM,0.74,0.91,0.84,0.81,0.48,0.43,0.94,0.98,5/1600
+ADX BladderTM,0.57,0.71,0.62,0.76,0.29,0.37,0.82,0.93,3/1600
+CX BLADDER,0.91,-,0.61,-,0.16,-,0.98,-,2/1000
+FDFGR3+TERT,0.93,-,0.79,-,0.67,-,0.96,-,2/250
+Marker,"Sensitivity 
+overall",HG,"Specificity 
+overall",HG,"PPV 
+overall",HG,"NPV 
+overall",HG,"N studies/
+patients"
+"XPERT BC® 
+MONITOR",0.72,0.88,0.76,0.75,0.43,0.18,0.92,0.99,10/> 2000
+EpiCheckTM,0.74,0.91,0.84,0.81,0.48,0.43,0.94,0.98,5/1600
+ADX BladderTM,0.57,0.71,0.62,0.76,0.29,0.37,0.82,0.93,3/1600
+CX BLADDER,0.91,-,0.61,-,0.16,-,0.98,-,2/1000
+FDFGR3+TERT,0.93,-,0.79,-,0.67,-,0.96,-,2/250
+"Patients with high-risk and those with very high-risk tumours treated conservatively should 
+undergo cystoscopy and urinary cytology at 3 months. If negative, subsequent cystoscopy 
+and cytology should be repeated every 3 months for a period of 2 years, and every 6 
+months thereafter until 5 years, and then yearly.",Weak,,,,,,,,
+"Patients with intermediate-risk Ta tumours should have an in-between (individualised) 
+follow-up scheme using cystoscopy.",Weak,,,,,,,,
+"Regular (yearly) upper tract imaging (computed tomography-intravenous urography [CT-IVU] 
+or IVU) is recommended for high-risk and very high-risk tumours.",Weak,,,,,,,,
+"Perform endoscopy under anaesthesia and bladder biopsies when office cystoscopy shows 
+suspicious findings or if urinary cytology is positive.",Strong,,,,,,,,
+"During follow-up in patients with positive cytology and no visible tumour in the bladder, 
+mapping biopsies or PDD-guided biopsies (if equipment is available) and investigation of 
+extravesical locations (CT urography, prostatic urethra biopsy) are recommended.",Strong,,,,,,,,

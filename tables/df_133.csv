@@ -1,0 +1,40 @@
+0,1,2
+Table 3.3: Information to include in pathology reports for penile carcinomas,,
+Type of information*,Recommended,required
+"Clinical information
+• 
+Prior treatments (topic, radiotherapy, chemotherapy)",x,
+Surgical procedure,,x
+"Tumour localisation
+• 
+Anatomic structures involved externally (e.g.: foreskin, glans, etc.) 
+and in depth (e.g.: dartos, corpus spongiosum, etc.)",,x
+"Macroscopic tumour dimension
+• 
+Size of tumour
+• 
+Maximum thickness",,x
+Photographic documentation,x,
+Block identification with description of the localization of the samples,,x
+Histological tumour type,,x
+Histological grade,,x
+"Microscopic maximum dimensions
+• 
+Depth of invasion (i.e., millimetres from basement membrane to 
+deepest point of invasion)
+• 
+Combination of gross and microscopic if large tumours",,x
+"Extent of invasion (microscopic confirmation of all the involved 
+anatomic structures)",,x
+"Tumour invasion front (Broadly-based pushing, destructive but well-
+delineated, destructive irregular/finger-like invasion/tumour budding) [64-66]",x,
+"Lymphovascular invasion [67, 68]",,x
+Perineural invasion,,x
+Margin status in mm (margins as per specimen),,x
+"Lymph node status
+• 
+Size of largest nodal tumour deposit (not LN size)
+Total number of LNs, number of positive LNs, extra-capsular spread 
+(ECS), inguinal or pelvic, to be reported in every site separately",,x
+pTNM Stage,,x
+HPV assessment (at least p16 IHC based),,x

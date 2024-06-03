@@ -1,0 +1,68 @@
+0,1,2
+Table 6.3: Prognostic models for localised RCC,,
+Prognostic model,Subtype*,Risk factors/prognostic factors
+UISS** [252],All,"1.    ECOG PS
+2.    T classification
+3.    N classification (N+ classified as metastatic)
+4.    Grade
+T1N0M0G1–2, ECOG PS 0: low-risk disease
+T3N0M0G2–4, ECOG PS > 1 OR T4N0M0: high-risk disease
+Any other N0M0: intermediate-risk disease"
+"Leibovich 
+score/model 2003 
+[243]",CC,"1.     T classification (pT1a: 0, pT1b: 1, pT2:3, pT3-4: 4 points)
+2.    N classification (pNx/N0: 0, pN+: 2 points)
+3.    Tumour size (< 10 cm: 0, > 10 cm: 1 point)
+4.    Grade (G1-2: 0, G3: 1, G4: 3 points)
+5.    Tumour necrosis (absent: 0, present: 1 point)
+0–2 points: low-risk disease
+3–5 points: intermediate-risk disease
+6 or more points: high-risk disease"
+"Leibovich 
+score/model 2018 
+[253]","CC, P, CH","ccRCC
+• 
+Progression (9 factors): constitutional symptoms, grade, tumour necrosis, 
+sarcomatoid features, tumour size, perinephric or sinus fat invasion, 
+tumour thrombus level, extension beyond kidney, nodal involvement.
+• 
+Cancer-specific survival (12 factors): age, ECOG PS, constitutional 
+symptoms, adrenalectomy, surgical margins, grade, tumour necrosis, 
+sarcomatoid features, tumour size, perinephric or sinus fat invasion, 
+tumour thrombus, nodal involvement.
+• 
+No risk groups/prognostic groups.
+pRCC
+• 
+Low risk (group 1): grade 1–2, no fat invasion, no tumour thrombus.
+• 
+Intermediate risk (group 2): grade 3, no fat invasion, no tumour thrombus.
+• 
+High risk (group 3): grade 4 or fat invasion or any level tumour thrombus.
+chRCC
+• 
+Low risk (group 1): no fat invasion, no sarcomatoid differentiation, no 
+nodal involvement.
+• 
+Intermediate risk (group 2): fat invasion and no sarcomatoid 
+differentiation and no nodal involvement.
+• 
+High risk (group 3): sarcomatoid differentiation or nodal involvement."
+"VENUSS 
+score/model*** 
+[196, 254]",P,"1.    T classification (pT1: 0, pT2: 1, pT3–4: 2 points)
+2.    N classification (pNx/pN0: 0, pN1: 3 points)
+3.    Tumour size (< 4 cm: 0, > 4 cm: 2 points)
+4.    Grade (G1/2: 0, G3/4: 2 points)
+5.    Tumour thrombus (absent: 0, present: 2 points)
+0–2 points: low-risk disease
+3–5 points: intermediate-risk disease
+6 or more points: high-risk disease"
+"GRANT 
+score/model**** 
+[255]",All,"1.    Age > 60 years 
+2.    T classification = T3b, pT3c or pT4
+3.    N classification = pN1
+4.    (Fuhrman) grade = G3 or G4
+0–1 factors: favourable-risk disease
+2 or more factors: unfavourable-risk disease"

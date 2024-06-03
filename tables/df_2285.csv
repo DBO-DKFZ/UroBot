@@ -1,0 +1,111 @@
+0,1,2,3,4,5,6
+Table 6.1.6: Randomised trials of dose escalation in localised PCa,,,,,,
+Trial,n,PCa condition,"Radiotherapy 
+Dose","Follow-up 
+(median)",Outcome,Results
+"MD Anderson 
+study 2011 
+[652]",301,"T1-T3, N0, M0, 
+PSA < 10 ng/mL
+PSA 10-20 ng/mL
+PSA > 20 ng/mL",70 vs.78 Gy,15 yr.,"DM, DSM, 
+FFF","All patients:
+18.9% FFF at 70 Gy
+12% FFF at 78 Gy
+(p = 0.042)
+3.4% DM at 70 Gy
+1.1% DM at 78 Gy
+(p = 0.018)
+6.2% DSM at 70 Gy
+3.2% DSM at 78 Gy
+(p = 0.043)
+No difference in OS
+(p > 0.05)"
+"PROG 95-09 
+2010 [646]",393,"T1b-T2b  
+PSA < 15 ng/mL
+75% low-risk pts.
+Low-risk: T1-2a, 
+PSA < 10 mg/mL, 
+GS < 6
+Interm-risk: PSA 
+10-15 ng/mL or 
+GS 7 or T2b
+High-risk: GS 
+8-10","70.2 vs.79.2 Gy 
+including 
+proton boost 
+19.8 vs. 28.8 Gy",8.9 yr.,"10-yr. 
+ASTRO BCF","All patients: 
+32% BF at 70.2 Gy 
+17% BF at 79.2 Gy 
+(p < 0.0001) 
+Low-risk patients: 
+28% BF at 70.2 Gy 
+7% BF at 79.2 Gy 
+(p < 0.0001)"
+"MRC RT01 
+2014 [651]",843,"T1b-T3a, N0, M0 
+PSA < 50 ng/mL 
+neoadjuvant HT",64 vs. 74 Gy,10 yr.,"BFS, OS","43% BFS at 64 Gy 
+55% BFS at 74 Gy 
+(p = 0.0003)  
+71% OS both groups 
+(p = 0.96)"
+"Dutch 
+randomised 
+phase III trial 
+2014 [650]",664,"T1b-T4 143 pts. 
+with (neo) 
+adjuvant HT",68 vs. 78 Gy,110 mo.,"Freedom 
+biochemical 
+(Phoenix) 
+and/or clinical 
+failure at 
+10 yr.","43% FFF at 68 Gy 
+49% FFF at 78 Gy 
+(p = 0.045)"
+"GETUG 06 
+2011 [649]",306,"T1b-T3a, N0, M0 
+PSA < 50 ng/mL",70 vs. 80 Gy,61 mo.,BCF (ASTRO),"39% BF at 70 Gy 
+28% BF at 80 Gy"
+"RTOG 0126 
+2018 [645]","1,532","T1b-T2b 
+ISUP grade 1 
++ PSA 10-20 
+ng/mL or ISUP 
+grade 2/3 + 
+PSA < 15 ng/mL",70.2 vs. 79.2 Gy,100 mo.,"OS, DM, BCF 
+(ASTRO)","75% OS at 70.2 Gy 
+76% OS at 79.2 Gy 
+6% DM at 70.2 Gy 
+4% DM at 79.2 Gy 
+(p = 0.05) 
+47% BCF at 70.2 Gy 
+31% BCF at 79.2 Gy 
+(p < 0.001; 
+Phoenix, p < 0.001)"
+"FLAME Trial
+[654, 655]",571,"EAU risk 
+classification: 
+Intermediate risk 
+(15%)
+High risk (84%)","77 Gy (35 fx. 
+2.2 Gy) vs.  
+77 Gy (35 Fx.) 
++ focal boost 
+(up to 18 Gy) 
+ADT (65% both 
+arms – duration 
+unknown)","72 mo. 
+(median)","BFS (5 yr.) 
+DSM (5 yr.)","BFS: 
+92% at 77 Gy + boost 
+85% at 77 Gy 
+(p < 0.001, HR: 0.45)  
+DSM: p = 0.49
+Focal boost in favour 
+of: Local control  
+(HR: 0.33)  
+Distant MFS  
+(HR: 0.58)"

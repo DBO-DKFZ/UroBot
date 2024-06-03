@@ -1,0 +1,22 @@
+0,1,2,3,4
+"Table 6.4.6: Results from the ARCHES and CHART studies [764, 1133, 1140]",,,,
+,"ARCHES [764, 1140]",,CHART [1133],
+,ADT ± docetaxel,"ADT + enzalutamide 
+± docetaxel","ADT +  
+bicalutamide","ADT + 
+rezvilutamide"
+N,576,574,328,326
+Newly diagnosed M+,63%,70%,100%,100%
+Low volume,35%,38%,0%,0%
+Use of early docetaxel,18% (previous),18% (previous),0%,0%
+Primary objective,rPFS,,"OS
+rPFS",
+Median follow up (mo),44.6,,29.3,
+Median rPFS (mo.),"38.9 
+49.8",,"23.5
+Not reached",
+HR (95% CI) for rPFS,HR: 0.63 (0.52–0.76),,HR: 0.46 (0.36–0.60),
+Median OS,"Not reached
+Not reached",,"Not reached
+Not reached",
+HR (95% CI) for OS,0.66 (0.53–0.81): Main secondary endpoint,,0.58 (0.44–0.77),

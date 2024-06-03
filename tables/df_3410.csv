@@ -1,0 +1,10 @@
+0,1,2
+Table 1: Venous thromboembolism (VTE) according to patient risk factors,,
+,Risk,Likelihood of VTE
+Low risk,No risk factors,1x
+Medium risk,"Any one of the following:
+age 75 years or more;
+Body mass index 35 or more;
+VTE in 1st degree relative (parent, full sibling, or child).",2x
+High risk,"Prior VTE
+Patients with any combination of two or more risk factors",4x

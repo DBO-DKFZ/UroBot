@@ -1,0 +1,32 @@
+0,1,2,3
+"Table 8: Standard VIP, TIP and GIP salvage chemotherapy (interval 21 days)",,,
+Regimen,Chemotherapy agents,Dosage,Duration of cycles
+VIP,"Cisplatin
+Etoposide
+Ifosfamide","20 mg/m2
+75-100 mg/m2
+1.2 g/m2","Days 1-5
+Days 1-5
+Days 1-5"
+TIP,"Paclitaxel
+Ifosfamide
+Cisplatin","250 mg/m2 xx
+1.5 g/ m2
+25 mg/m2","24 hour continuous infusion day 1
+Days 2-5
+Days 2-5"
+,Alternative schedule,,
+,"Paclitaxel
+Ifosfamide
+Cisplatin*","175 mg/m2
+1.2 g/m2
+20 mg/m2","Day 1, 3 hour infusion
+Days 1-5
+Days 1-5"
+GIP,"Gemcitabine
+Ifosfamide
+Cisplatin","1000 mg/m2
+1200 mg/m2
+20 mg/m2","Day 1 + 5
+Days 1-5
+Days 1-5"

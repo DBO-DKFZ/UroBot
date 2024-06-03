@@ -1,0 +1,21 @@
+0,1,2,3,4
+Table 5: Patient questionnaires,,,,
+Questionnaire,"Underlying neurological 
+disorder",Bladder,Bowel,Sexual function
+FAMS [79],MS,X,,X
+FILMS [80],MS,X,X,
+HAQUAMS [81],MS,X,X,X
+I-QOL [77],"MS, SCI",X,,X
+LUTS-TCA [71],"MS, SCI, Parkinson",X,,
+MDS [82],MS,X,X,
+"MSISQ-15 / MSISQ-19 [73, 74]","MS, SCI",X,X,X
+MSQLI [83],MS,X,X,X
+MSQoL-54 [84],MS,X,X,X
+MSWDQ [85],MS,X,X,
+"NBSS [67, 69]","MS, SCI, SB, Cerebral Palsy",X,,
+NBSS-SF [68],"MS, SCI, SB",,,
+QoL-BM [70],SCI,,X,
+"Qualiveen/SF-Qualiveen [65, 86]","MS, SCI",X,,X
+RAYS [87],MS,X,,X
+RHSCIR [88],SCI,X,X,X
+USQNB [72],SCI,X,X,

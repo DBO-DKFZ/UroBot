@@ -1,0 +1,13 @@
+0,1,2
+Table 6.3.1: EAU risk categories for biochemical recurrence,,
+,EAU Low Risk,EAU High Risk
+After RP,"PSA-DT > 1 year 
+AND 
+pathological ISUP grade < 4","PSA-DT < 1 year 
+OR 
+pathological ISUP grade 4–5"
+After RT,"interval to biochemical failure > 18 months 
+AND 
+biopsy ISUP grade < 4","interval to biochemical failure < 18 months
+OR 
+biopsy ISUP grade 4–5"

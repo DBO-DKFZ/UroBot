@@ -1,0 +1,52 @@
+0,1,2,3,4,5,6,7,8,9
+"Table 8.1:   Proposed follow-up schedule following treatment for localised RCC, taking into account",,,,,,,,,
+Risk profile (*),Oncological follow-up after date of surgery,,,,,,,,
+,3 mo,6 mo,,12 mo 18 mo 24 mo 30 mo 36 mo > 3 yr (**) (***) > 5 yr (**) (***),,,,,
+"Low risk of recurrence
+For ccRCC:
+Leibovich Score 0–2
+For non-ccRCC:
+pT1a–T1b pNx–0 M0 and 
+histological grade 1 or 2.",-,CT,-,CT,-,CT,-,"CT once every  
+two yrs",-
+"Intermediate risk of 
+recurrence
+For ccRCC:
+Leibovich Score 3–5
+For non-ccRCC:
+pT1b pNx–0 and/or 
+histological grade 3 or 4.",-,CT,CT,-,CT,-,CT,CT once yr,"CT once  
+every  
+two yrs"
+"High risk of recurrence
+For ccRCC:
+Leibovich Score > 6
+For non-ccRCC:
+pT2–pT4 with any 
+histological grade
+or
+pT any, pN1 cM0 with 
+any histological grade",CT,CT,CT,CT,CT,-,CT,CT once yr,"CT once  
+every  
+two yrs"
+Summary of evidence,LE,,,,,,,,
+"Functional follow-up after curative treatment for RCC is useful to prevent renal and cardiovascular 
+deterioration.",4,,,,,,,,
+"Oncological follow-up can detect local recurrence or metastatic disease while the patient may still be 
+surgically curable.",4,,,,,,,,
+"After NSS, there is an increased risk of recurrence for larger (> 7 cm) tumours, or when there is a PSM.",3,,,,,,,,
+Patients undergoing follow-up have a better OS than patients not undergoing follow-up.,3,,,,,,,,
+"Prognostic models provide stratification of RCC risk of recurrence based on TNM and histological 
+features.",3,,,,,,,,
+"In competing-risk models, risk of non-RCC-related death exceeds that of RCC recurrence or related 
+death in low-risk patients.",3,,,,,,,,
+Life expectancy estimation is feasible and may support counselling of patients on duration of follow-up.,4,,,,,,,,
+Recommendations,Strength rating,,,,,,,,
+Base follow-up after treatment of localised RCC on the risk of recurrence.,Strong,,,,,,,,
+"Base risk of recurrence stratification on validated subtype-specific models such as the 
+Leibovich Score for ccRCC, or the University of California Los Angeles integrated staging 
+system for non-ccRCC.",Weak,,,,,,,,
+"Intensify follow-up in patients after NSS for tumours > 7 cm or in patients with a positive 
+surgical margin.",Weak,,,,,,,,
+"Consider curtailing follow-up when the risk of dying from other causes is double that of the 
+RCC recurrence risk.",Weak,,,,,,,,

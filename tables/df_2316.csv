@@ -1,0 +1,86 @@
+0,1,2
+Table 6.6.1:  EAU risk groups for biochemical recurrence of localised and locally-advanced prostate,,
+Recommendations,Strength rating,
+"Offer bone protective agents to patients with mCRPC and skeletal metastases to prevent 
+osseous complications.",Strong,
+"Monitor serum calcium and offer calcium and vitamin D supplementation when prescribing 
+either denosumab or bisphosphonates.",Strong,
+"Treat painful bone metastases early on with palliative measures such as intensity-modulated 
+radiation therapy/volumetric arc radiation therapy plus image-guided radiation therapy and 
+adequate use of analgesics.",Strong,
+"In patients with spinal cord compression start immediate high-dose corticosteroids and 
+assess for spinal surgery followed by irradiation. Offer radiation therapy alone if surgery is 
+not appropriate.",Strong,
+Definition,,
+"Low-risk
+Intermediate-risk
+High-risk",,
+"any PSA
+PSA > 20 ng/mL 
+PSA 10–20 ng/mL 
+PSA < 10 ng/mL 
+any GS (any ISUP grade)*
+Or GS > 7 (ISUP grade 4/5)
+or GS 7 (ISUP grade 2/3)
+and GS < 7 (ISUP grade 1) 
+cT3-4* or cN+**
+or cT2c*
+or cT2b*
+and cT1-2a*",,
+"Localised
+Locally advanced",,
+Recommendations,Strength rating,
+"No active treatment modality has shown superiority over any other active management 
+options or deferred active treatment in terms of overall- and PCa-specific survival for 
+clinically localised low/intermediate-risk disease.",Strong,
+"Offer a watchful waiting policy to asymptomatic patients with clinically localised disease 
+and with a life expectancy < 10 years (based on co-morbidities and age).",Strong,
+Inform patients that all local treatments have side effects.,Strong,
+Surgical treatment,,
+"Radical prostatectomy can be safely delayed for at least 3 months from diagnosis in any 
+risk category.",Weak,
+"Inform patients that no surgical approach (open-, laparoscopic- or robotic radical 
+prostatectomy) has clearly shown superiority in terms of functional or oncological results.",Weak,
+"When a lymph node dissection (LND) is deemed necessary based on a nomogram, perform an 
+extended LND template for optimal staging.",Strong,
+"Consider avoiding nerve-sparing surgery when there is a risk of ipsilateral extra-capsular 
+extension (based on cT stage, ISUP grade, magnetic resonance imaging, or with this 
+information combined in a nomogram).",Weak,
+Do not offer neoadjuvant androgen deprivation therapy before surgery.,Strong,
+Radiotherapeutic treatment,,
+"Offer intensity-modulated radiation therapy (IMRT) or volumetric arc radiation therapy 
+(VMAT) plus image-guided radiation therapy (IGRT) for definitive treatment of PCa by 
+external-beam radiation therapy.",Strong,
+"Offer moderate hypofractionation (HFX) with IMRT/VMAT plus IGRT to the prostate to 
+patients with localised disease (60 Gy/20 fractions in 4 weeks or 70 Gy/28 fractions in  
+6 weeks).",Strong,
+"Offer low-dose rate (LDR) brachytherapy monotherapy to patients with good urinary 
+function and low-risk or NCCN favourable intermediate-risk disease.",Strong,
+"Offer LDR or high-dose rate (HDR) brachytherapy boost combined with IMRT/VMAT plus 
+IGRT to patients with good urinary function and NCCN unfavourable intermediate-risk or 
+high-risk disease and/or locally-advanced disease.",Weak,
+Active therapeutic options outside surgery or radiotherapy,,
+"Only offer focal therapy with high-intensity focused ultrasound or cryotherapy within a 
+Strong
+clinical trial or prospective registry.",,
+"Recommendations
+Strength rating",,
+Low-risk disease,,
+"Watchful Waiting 
+(WW)","Offer WW to patients with a life expectancy < 10 years.
+Strong",
+"Active 
+surveillance (AS)","Manage patients with a life expectancy > 10 years and low-risk 
+Strong
+disease by AS.",
+,Selection of patients,
+,"Patients with intraductal histology on biopsy should be excluded from 
+AS.",Strong
+,"Perform magnetic resonance imaging (MRI) before a confirmatory 
+biopsy if no MRI has been performed before the initial biopsy.",Strong
+,"Take both targeted biopsy (of any PI-RADS > 3 lesion) and systematic 
+biopsy if a confirmatory biopsy is performed.",Weak
+,"If MRI is not available, per-protocol confirmatory prostate biopsies 
+should be performed.",Weak
+,"If a patient has had upfront MRI followed by systematic and targeted 
+biopsies there is no need for confirmatory biopsies.",Weak

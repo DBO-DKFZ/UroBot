@@ -1,0 +1,20 @@
+0,1,2
+Table 6.4: Prognostic models for metastatic RCC,,
+Prognostic model,Subtype,Risk factors/prognostic factors
+MSKCC [256]**,All,"1.    Karnofsky PS [257]* < 80%
+2.    Interval from diagnosis to systemic treatment < 1 year
+3.    Haemoglobin < lower limit of normal
+4.    Corrected calcium >10 mg/dL/> 2.5 mmol/L
+5.    LDH > 1.5x upper limit of normal
+0 factors: favourable-risk disease 
+1–2 factors: intermediate-risk disease
+3–5 factors: poor-risk disease"
+IMDC [258]***,All,"1.    Karnofsky PS [257]* < 80%
+2.    Interval from diagnosis to treatment < 1 year
+3.    Haemoglobin < lower limit of normal 
+4.    Corrected calcium > upper limit of normal (i.e., > 10.2 mg/dL)
+5.    Neutrophil count > upper limit of normal (i.e., > 7.0×109/L)
+6.    Platelet count > upper limit of normal (i.e., > 400,000)
+0 factors: favourable-risk disease 
+1–2 factors: intermediate-risk disease
+3–6 factors: poor-risk disease"

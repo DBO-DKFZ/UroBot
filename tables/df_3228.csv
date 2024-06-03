@@ -1,0 +1,18 @@
+0,1,2
+"Table 9: Cardiac risk stratification (based on 2nd and 3rd Princeton Consensus) [410, 412]",,
+Low-risk category,Intermediate-risk category,High-risk category
+"Asymptomatic, < 3 risk factors for 
+CAD (excluding sex)","> 3 risk factors for CAD (excluding 
+sex)",High-risk arrhythmias
+"Mild, stable angina
+(evaluated and/or being treated)","Moderate, stable angina",Unstable or refractory angina
+Uncomplicated previous MI,"Recent MI (> 2, < 6 weeks)",Recent MI (< 2 weeks)
+LVD/CHF (NYHA class I or II),LVD/CHF (NYHA class III),LVD/CHF (NYHA class IV)
+"Post-successful coronary 
+revascularisation","Non-cardiac sequelae of 
+atherosclerotic disease (e.g., 
+stroke, peripheral vascular disease)","Hypertrophic obstructive and other 
+cardiomyopathies"
+Controlled hypertension,,Uncontrolled hypertension
+Mild valvular disease,,"Moderate-to-severe valvular 
+disease"

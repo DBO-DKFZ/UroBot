@@ -1,0 +1,15 @@
+0,1,2
+Table 6.4.1  Definition of high- and low-volume in CHAARTED [1112-1114] and high- and low-risk in,,
+,High,Low
+"CHAARTED 
+(volume)","> 4 Bone metastases including > 1 outside vertebral column or pelvis 
+AND/OR 
+Visceral metastasis*",Not high
+"LATITUDE 
+(risk)","> 2 high-risk features of:
+• 
+> 3 Bone metastasis 
+• 
+Visceral metastasis 
+• 
+> ISUP grade 4",Not high

@@ -1,0 +1,25 @@
+0,1
+Table 5.3: Calculation of the Charlson Comorbidity Index,
+Number of points,Conditions
+1,50–60 years
+,Myocardial infarction
+,Heart failure
+,Peripheral vascular insufficiency
+,Cerebrovascular disease
+,Dementia
+,Chronic lung disease
+,Connective tissue disease
+,Ulcer disease
+,Mild liver disease
+,Diabetes
+2,61–70 years
+,Hemiplegia
+,Moderate to severe kidney disease
+,Diabetes with organ damage
+,Tumours of all origins
+3,71–80 years
+,Moderate to severe liver disease
+4,81–90 years
+5,> 90 years
+6,Metastatic solid tumours
+,AIDS

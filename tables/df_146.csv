@@ -1,0 +1,50 @@
+0,1,2,3,4,5,6,7,8
+Table 6.3: Adjuvant conventional radiotherapy for node-positive penile cancer,,,,,,,,
+Author,n,stage,aRT,"Adj
+CT",RT,LR,OS,Study type
+"Jaipuria 
+2020 [274]",45,"anyT pN2-3
+pelvis pN-",25,7,"VMAT/IMRT, 
+45 Gy basic, 
+54 Gy ENE,
+ 57-60 macro",No InF,"47 mo. RT
+vs. 14 mo. CT","Prosp
+registry"
+"Johnstone 
+2019 [275]",93,"anyTpN3
+ENE-
+ENE+",,,50/25 no details,,"↑OS aRT 
+p = 0.037
+or aCT 
+p = 0.038
+↑DSS aRT 
+p = 0.04",4 centres
+"Winters 
+2018 [280]",136,"pT1-3 
+pN1-2",,,"45 Gy + boost 
+45%",,"↑OS aRT
+5 yr.
+64% vs. 53%",NCDB
+"Tang 
+2017 [277]",92,N3 +pelvis,40,,"63% 50/25, 
+13% > 50 Gy",,"↑OS aRT
+12.2 vs.8
+P=0.04
+↑DSS
+14.4 vs.8
+p = 0.02",4 centres
+"Ager 
+2021 [276]",146,"pN3 (ENE 
+or pelvis+)",121,,"45/20 to 54/25
+2X↑LR if < 50",26 inF,"OS 44%
+RFS 5y 51%","2 centres 
+UK"
+"Bandini 
+2021 [34]",507,ILND,"86
+HPV+
+40
+aRT",,,,"↑OS aRT
+p = 0.015
+Also propensity
+matched 
+analysis",11 centres

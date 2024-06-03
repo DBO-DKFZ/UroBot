@@ -1,0 +1,31 @@
+0,1
+Table 7.3: Treatment options for the various categories of BCG failure,
+EAU Risk Group: Intermediate,
+"In all patients either one-year full-dose Bacillus Calmette-Guérin (BCG) treatment (induction 
+plus 3-weekly instillations at 3, 6 and 12 months), or instillations of chemotherapy (the optimal 
+schedule is not known) for a maximum of one year is recommended. The final choice should 
+reflect the individual patient’s risk of recurrence and progression as well as the efficacy and 
+side effects of each treatment modality. Offer one immediate chemotherapy instillation to 
+patients with small papillary recurrences detected more than one year after previous TURB.",Strong
+EAU risk group: High,
+"Offer intravesical full-dose BCG instillations for one to 3 years but discuss immediate radical 
+Strong
+cystectomy (RC).",
+EAU risk group: Very High,
+"Offer RC or intravesical full-dose BCG instillations for one to 3 years to those who refuse or 
+Strong
+are unfit for RC.",
+Category,Treatment options
+BCG-unresponsive,1. Radical cystectomy (RC).
+,2. Enrolment in clinical trials assessing new treatment strategies.
+,3. Bladder-preserving strategies in patients unsuitable or refusing RC.
+"Late BCG relapsing: 
+TaT1 HG recurrence 
+> 6 months or CIS 
+>  12 months of last BCG 
+exposure","1. Radical cystectomy or repeat BCG course according to a patient’s 
+individual situation."
+,2. Bladder-preserving strategies.
+"LG recurrence after BCG for 
+primary intermediate-risk tumour",1. Repeat BCG or intravesical chemotherapy.
+,2. Radical cystectomy.

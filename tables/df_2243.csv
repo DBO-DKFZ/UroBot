@@ -1,0 +1,39 @@
+0,1
+"6.2.2	
+Treatment of intermediate-risk disease
+When managed with non-curative intent, intermediate-risk PCa is associated with 10-year and 15-year PCSM 
+rates of 13.0% and 19.6%, respectively [841]. These estimates are based on systematic biopsies and may be 
+overestimated in the era of MRI-targeted biopsies.",
+"Recommendations 
+Strength rating",
+Watchful Waiting (WW),
+"Offer WW in asymptomatic patients with life expectancy < 10 years.
+Strong",
+Active surveillance (AS),
+"Offer AS to highly selected patients with ISUP grade group 2 disease (i.e. < 10% pattern 
+4, PSA < 10 ng/mL, < cT2a, low disease extent on imaging and low biopsy extent [defined 
+as < 3 positive cores and cancer involvement < 50% core involvement [CI]/per core]), or 
+another single element of intermediate-risk disease with low disease extent on imaging and 
+low biopsy extent, accepting the potential increased risk of metastatic progression.",Weak
+Patients with ISUP grade group 3 disease should be excluded from AS protocols.,Strong
+"Re-classify patients with low-volume ISUP grade group 2 disease included in AS protocols, 
+if repeat non-MRI-based systematic biopsies performed during monitoring reveal > 3 
+positive cores or maximum CI > 50%/core of ISUP 2 disease.",Weak
+Radical prostatectomy (RP),
+"Offer RP to patients with a life expectancy of > 10 years. 
+Strong",
+"Radical prostatectomy can be safely delayed for at least 3 months. 
+Weak",
+"Offer nerve-sparing surgery to patients with a low risk of extra-capsular disease on that side.
+Strong",
+Extended pelvic lymph node dissection (ePLND),
+"Weak
+Perform an ePLND based on predicted risk of lymph node invasion (validated nomogram, 
+see Section 6.1.2.3.2.)",
+Radiotherapeutic treatment,
+"Offer low-dose rate (LDR) brachytherapy to patients with good urinary function and NCCN 
+favourable intermediate-risk disease.",Strong
+"Offer intensity-modulated radiotherapy (IMRT)/volumetric modulated arc therapy (VMAT) 
+plus image-guided radiotherapy (IGRT), with a total dose of 76–78 Gy or moderate 
+hypofractionation (60 Gy/20 fx in 4 weeks or 70 Gy/28 fx in 6 weeks), in combination with 
+short-term androgen deprivation therapy (ADT) (4–6 months).",Strong

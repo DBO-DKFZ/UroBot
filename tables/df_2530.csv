@@ -1,0 +1,29 @@
+0,1,2,3
+Table 7.3:  Median OS and percentage of patients surviving two years treated in the era of targeted,,,
+IMDC Model,Patients#,"Median OS* 
+(months)",2-yr OS (95% CI)#
+,"n
+%",,
+Favourable,"157
+18",43.2,75% (65–82%)
+Intermediate,"440
+52",22.5,53% (46–59%)
+Poor,"252
+30",7.8,7% (2–16%)
+Summary of evidence,LE,,
+"Single-agent VEGF-targeted therapy has been superseded by immune checkpoint-based combination 
+therapy.",1b,,
+Pazopanib is non-inferior to sunitinib as first-line management option in mRCC.,1b,,
+"Cabozantinib in intermediate- and poor-risk treatment-naive ccRCC leads to better response rates 
+and PFS but not OS when compared to sunitinib.",2b,,
+"Tivozanib has been EMA approved, but the evidence is still considered inferior over existing choices in 
+the first-line setting.",3,,
+"Single-agent VEGF-targeted therapies are preferentially recommended after first-line PD-L1-based 
+combinations. Re-challenge with treatments already used should be avoided.",3,,
+"Single-agent cabozantinib or nivolumab are superior to everolimus after one or more lines of VEGF-
+targeted therapy.",1b,,
+"Everolimus prolongs PFS after VEGF-targeted therapy when compared to placebo. This is no longer 
+widely recommended before third-line therapy.",1b,,
+"Lenvatinib in combination with everolimus improved PFS over everolimus alone in VEGF-refractory 
+disease. Its role after ICIs is uncertain. There is a lack of robust data on this combination making its 
+recommendation challenging.",2a,,

@@ -1,0 +1,256 @@
+0,1,2,3,4,5,6
+Table 7.4:  First line immune checkpoint inhibitor combination trials for clear-cell RCC,,,,,,
+Study,N,"Experimental 
+arm","Primary 
+endpoint","Risk 
+groups","PFS (mo)
+Median (95% CI)
+HR","OS (mo)
+Median (95% CI)
+HR"
+"KEYNOTE-426
+NCT02853331
+Median 
+follow-up 
+42.8 months
+[523, 524, 530]",861,"PEMBRO  
+200 mg. IV Q3W 
+plus AXI 5 mg.  
+PO BID
+vs.
+SUN 50 mg  
+PO QD 4/2 wk","PFS and OS 
+in the ITT by 
+BICR","IMDC
+FAV     31%
+IMD     56%
+POOR 13%
+MSKCC
+Not 
+determined","(ITT)
+PEMBRO + AXI: 
+15.7 (13.6–20.2)
+SUN: 11.1 (8.9–12.5)
+HR: 0.68 
+(95% CI: 0.58–0.80)
+p < 0.0001","(ITT)
+PEMBRO + AXI: 
+45.7 (43.6–NR)
+SUN: 40.1  
+(34.3–44.2)
+HR: 0.73 
+(95% CI: 0.60–0.88)
+p = 0.001"
+"JAVELIN 101 
+NCT02684006
+Median 
+follow-up 
+19 months
+[457, 528]",886,"AVE 10 mg/kg  
+IV Q2W plus  
+AXI, 5 mg  
+PO BID
+vs.
+SUN 50 mg  
+PO QD 4/2 wk","PFS in the 
+PD-L1+ 
+population 
+and OS in 
+the ITT by 
+BICR","IMDC
+FAV     22%
+IMD     62%
+POOR 16%
+MSKCC
+FAV     23%
+IMD     66%
+POOR 12%","(PD-L1+)
+AVE + AXI: 
+13.8 (10.1–20.7)
+SUN: 7.0 (5.7–9.6)
+HR: 0.62 
+(95% CI: 0.49–0.78)
+p < 0.0001","(PD-L1+)
+AVE + AXI: NR
+SUN: 28.6 (27.4–NE)
+HR: 0.83 
+(95% CI: 0.60–1.15)
+p = 0.1301"
+"IMmotion151
+NCT02420821
+Median 
+follow-up 
+24 months
+[509, 529]",915,"ATEZO 
+1200 mg fixed 
+dose IV plus  
+BEV 15 mg/kg  
+IV on days 1 and 
+22 of each 42-day 
+cycle
+vs.
+SUN 50 mg
+PO QD 4/2 wk","PFS in the 
+PD-L1+ 
+population 
+and OS in 
+the ITT by 
+IR","IMDC
+Not 
+determined
+MSKCC
+FAV     20%
+IMD     69%
+POOR 12%","(PD-L1+)
+ATEZO + BEV: 
+11.2 (8.9–15.0)
+SUN: 7.7 (6.8–9.7)
+HR: 0.74 
+(95% CI: 0.57–0.96)
+p = 0.0217","(ITT)
+ATEZO + BEV: 
+36.1 (31.5–42.3)
+SUN: 35.3  
+(28.6–42.1NE)
+HR: 0.91 
+(95% CI: 0.76–1.08)
+p = 0.27"
+"Checkmate 
+214
+NCT02231749
+Median 
+follow-up of 
+60 months
+[455, 522]",1096,"NIVO 3 mg/kg 
+plus 
+IPI 1 mg/kg IV 
+Q3W for 4 doses 
+then NIVO 
+3 mg/kg IV Q2W
+vs.
+SUN 50 mg  
+PO QD 4/2 wk","PFS and 
+OS in the 
+IMDC inter-
+mediate and 
+poor risk 
+population 
+by BICR","IMDC
+FAV      23%
+IMD      61%
+POOR  17%
+MSKCC
+Not 
+determined","(IMDC IMD/poor)
+NIVO + IPI: 
+11.6 (8.4–16.5)
+SUN: 8.3 (7.0–10.4)
+HR: 0.73 
+(95% CI: 0.61–0.87)","(IMDC IMD/poor)
+NIVO + IPI: 
+47.0 (35.4–57.4)
+SUN: 
+26.6 (22.1–33.5)
+HR: 0.68 
+(0.58–0.81)
+p < 0.0001"
+"CheckMate 
+9ER 
+NCT03141177
+Median 
+follow-up of 
+23.5 months
+[525, 526]",651,"NIVO 240 mg 
+fixed dose IV 
+every 2 wk plus 
+CABO 40 mg 
+PO daily 
+vs.
+SUN 50 mg  
+PO QD 4/2 wk","PFS in the 
+ITT by BICR","IMDC
+FAV      22%
+IMD      58%
+POOR  20%
+MSKCC
+Not 
+determined","(ITT)
+NIVO + CABO: 
+17.0 (12.6–19.4)
+SUN: 8.3 (6.9–9.7)
+HR: 0.52 
+(95% CI: 0.43–0.64)
+p < 0.0001","(ITT)
+NIVO + CABO:  
+NR (NE)
+SUN: 29.5 (28.4–NE)
+HR: 0.66 
+(98.9% CI: 0.50–
+0.87)
+p = 0.0034"
+"CLEAR
+NCT02811861
+Median  
+follow-up of  
+33.4 months
+[527, 531]",712,"PEMBRO  
+200 mg IV Q3W 
+plus LEN 20 mg 
+PO QD
+vs.
+SUN 50 mg  
+PO QD 4/2 wk","PFS in the 
+ITT by BIRC","IMDC
+FAV     31%
+IMD     59%
+POOR   9%
+NE         1%
+MSKCC
+FAV     27%
+IMD     64%
+POOR   9%","(ITT)
+PEMBRO + LEN: 
+23.9 (20.8–27.7)
+SUN: 9.2 (6.0–11.0)
+HR: 0.39 
+(95% CI: 0.32–0.49) 
+p > 0.001","H
+(ITT)
+PEMBRO + LEN:  
+NR (41.5–NE)
+SUN: NR (38.4–E)
+R: 0.72 
+(95% CI: 0.55–0.93)  
+p = 0.005"
+"COSMIC-313
+Median  
+follow-up of  
+20.2 months
+[521]",855,"NIVO 3 mg/kg 
+plus IPI 1 mg/kg  
+IV Q3W for 4 
+doses then  
+NIVO 3 mg/kg  
+IV Q2W +  
+CABO 40 mg  
+PO QD
+vs. NIVO 3 mg/kg  
+plus IPI 1 mg/kg  
+IV Q3W for 4 
+doses then  
+NIVO 3 mg/kg  
+IV Q2W","PFS in 
+the PITT 
+population 
+(first 
+550 pts. 
+randomised)","IMDC
+IMD     75%
+POOR  25%","(PITT)
+NIVO + IPI + CABO: 
+NR (14.0–NE)
+NIVO + IPI:  
+11.3 (7.7–18.2)
+HR: 0.73 (95%  
+CI: 0.57–0.94)  
+p = 0.013",NR

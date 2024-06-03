@@ -1,0 +1,59 @@
+0,1,2,3,4,5,6
+Table 7.2: Key trials on immune checkpoint inhibitor combinations for primary metastatic disease,,,,,,
+Trial,"Drug 
+combination","Number and % of 
+patients treated 
+with primary 
+tumour in place","Number of patients 
+treated with the primary 
+tumour in place  
+(ICI combination vs. 
+sunitinib)",,"Subgroup analyses
+(HR with 95% CIs)",
+,,,"ICI 
+combination",sunitinib,PFS,OS
+"CheckMate 214 
+[455]","ipilimumab + 
+nivolumab",187/847 (22%),84,103,NA,"0.63  
+(0.42–0.94)"
+"CheckMate 9ER 
+[456]","cabozantinib + 
+nivolumab",196/651 (30.1%),101,95,"0.63  
+(0.43–0.92)","0.79  
+(0.48–1.29)"
+"Javelin 101  
+[457]","axitinib + 
+avelumab",179/886 (20.2%),90,89,"0.75  
+(0.48–1.65)",NA
+"KEYNOTE-426 
+[458]","axitinib + 
+pembrolizumab",143/861 (16.6%),73,70,"0.68  
+(0.45–1.03)","0.57  
+(0.36–0.89)"
+"CLEAR 
+[459]","lenvatinib + 
+pembrolizumab",179/714 (25.1%),97,82,"0.38  
+(0.31–0.48)","0.52  
+(0.31–0.86)"
+Summary of evidence,LE,,,,,
+"Deferred CN with pre-surgical sunitinib in intermediate-risk patients with cc-mRCC shows a survival 
+benefit in secondary endpoint analyses and selects out patients with inherent resistance to systemic 
+therapy.",2b,,,,,
+"Sunitinib alone is non-inferior compared to immediate CN followed by sunitinib in patients with 
+MSKCC intermediate and poor risk who require systemic therapy with VEGFR-TKI.",1a,,,,,
+"Cytoreductive nephrectomy in patients with simultaneous complete resection of a single metastasis or 
+oligometastases may improve survival and delay systemic therapy.",3,,,,,
+Patients with MSKCC or IMDC poor risk do not benefit from CN.,1a,,,,,
+"Patients with their primary tumour in place treated with IO-based combination therapy have better 
+PFS and OS in exploratory subgroup analyses compared to treatment with sunitinib.",2b,,,,,
+Recommendations,Strength rating,,,,,
+Do not perform cytoreductive nephrectomy (CN) in MSKCC poor-risk patients.,Strong,,,,,
+"Do not perform immediate CN in intermediate-risk patients who have an asymptomatic 
+synchronous primary tumour and require systemic therapy.",Weak,,,,,
+"Start systemic therapy without CN in intermediate-risk patients who have an asymptomatic 
+synchronous primary tumour and require systemic therapy.",Weak,,,,,
+Discuss delayed CN with patients who derive clinical benefit from systemic therapy.,Weak,,,,,
+"Perform immediate CN in patients with a good performance status who do not require 
+systemic therapy.",Weak,,,,,
+"Perform immediate CN in patients with oligometastases when complete local treatment of 
+the metastases can be achieved.",Weak,,,,,

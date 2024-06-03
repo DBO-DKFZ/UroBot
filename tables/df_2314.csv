@@ -1,0 +1,140 @@
+0,1,2,3,4
+Table 6.5.3: Randomised controlled phase II/III - second-line/third-line trials in mCRPC,,,,
+"Study
+Intervention
+Comparison
+Selection criteria
+Main outcomes",,,,
+ABIRATERONE,,,,
+"COU-AA-301 
+2012 [1209]","abiraterone + 
+prednisone HR","placebo + 
+prednisone","Previous docetaxel. 
+ECOG 0-2. 
+PSA or radiographic 
+progression.","OS: 15.8 vs. 11.2 mo. 
+(p < 0.0001, HR: 0.74, 95% 
+CI: 0.64–0.86; p < 0.0001). 
+FU: 20.2 mo.
+rPFS: no change"
+"COU-AA-301 
+2011 [1208]",,,,"OS: 14.8 vs. 10.9 mo.
+(p < 0.001 HR: 0.65; 95% 
+CI: 0.54–0.77). 
+FU: 12.8 mo.
+rPFS: 5.6 vs. 3.6 mo."
+Radium-223,,,,
+"ALSYMPCA 
+2013 [1211]",radium-223,placebo,"Previous or no 
+previous docetaxel. 
+ECOG 0-2. Two or 
+more symptomatic 
+bone metastases. No 
+visceral metastases.","OS: 14.9 vs. 11.3 mo. 
+(p = 0.002, HR: 0.61; 95% 
+CI: 0.46–0.81). 
+All secondary endpoints show a 
+benefit over best SOC."
+CABAZITAXEL,,,,
+"TROPIC 
+2013 [1246]","cabazitaxel + 
+prednisone","mitoxantrone + 
+prednisone","Previous docetaxel. 
+ECOG 0-2.","OS: 318/378 vs. 346/377 events
+(OR: 2.11; 95% CI: 1.33–3.33). 
+FU: 25.5 months OS > 2 yr 27% 
+vs. 16% PFS: -"
+"TROPIC 
+2010 [1204]",,,,"OS: 15.1 vs. 12.7 mo.
+(p < 0.0001, HR: 0.70; 
+95% CI: 0.59–0.83). FU: 12.8 mo.
+PFS: 2.8 vs. 1.4 mo.
+(p < 0.0001, HR: 0.74, 
+95% CI: 0.64-0.86)"
+"CARD 
+2019 [1169]","cabazitaxel 
+(25 mg/m2 Q3W) 
++ prednisone 
++ G-CSF","ARTA: 
+abiraterone + 
+prednisone 
+OR
+enzalutamide","Previous docetaxel.
+Progression < 12 mo. 
+on prior alternative 
+ARTA (either before 
+or after docetaxel)","Med OS 13.6 vs. 11.0 mo. 
+(p = 0.008, HR: 0.64, 95% 
+CI: 0.46–0.89). 
+rPFS 8.0 vs. 3.7 mo. 
+(p < 0.001, HR: 0.54, 
+95% CI: 0.40–0.73).
+FU: 9.2 mo."
+ENZALUTAMIDE,,,,
+"AFFIRM 
+2012 [1210]",enzalutamide,placebo,"Previous docetaxel. 
+ECOG 0-2.","OS: 18.4 vs. 13.6 mo.
+(p < 0.001, HR: 0.63; 95% 
+CI: 0.53–0.75). 
+FU: 14.4 mo.
+rPFS: 8.3 vs. 2.9 mo.
+(HR: 0.40; 95% CI: 0.35–0.47, 
+p < 0.0001)."
+PARP inhibitor,,,,
+"PROfound
+2020 [1166, 
+1167, 1247]",olaparib,"abiraterone + 
+prednisolone or 
+enzalutamide;
+cross-over 
+allowed at 
+progression","Previous ARPI, 
+alterations in HRR 
+mutated genes","rPFS: 7.39 vs. 3.55 mo. 
+(p < 0.0001, HR: 0.34; 95%  
+CI: 0.25–0.47), conf. ORR  
+33.3% vs. 2.3% (OR 20.86, 95% 
+CI: 4.18–379.18).
+OS: 19.1 mo vs. 14.7 mo. 
+(in pts with BRCA1/2, ATM 
+alterations)
+(p = 0.0175; HR 0.69, 95% 
+CI: 0.5–0.97)."
+Radioligand therapy,,,,
+"VISION 
+2021 [1229]","177Lu-PSMA-617
+SOC",SOC alone,"Previous at least  
+1 ARPI and one or 
+two taxane regimens;
+Mandatory: PSMA-
+positive gallium-68 
+(68Ga)–labeled 
+PSMA-PET scan","Imaging-based PFS: 
+8.7 vs. 3.4 mo. 
+(p < 0.001; HR 0.40; 99.2% 
+CI: 0.29–0.57) 
+OS: 15.3 vs. 11.3 mo. 
+(p < 0.001; HR 0.62; 95% 
+CI: 0.5–0.74)"
+"TheraP 
+2021 [1220, 
+1248]","177Lu-PSMA-617
+(8.5 GBq 
+i.v.q 6-weekly, 
+decreasing 
+0.5 GBq/cycle; 
+up to 6 cycles)","177Lu-PSMA-617
+1:1 
+randomisation
+cabazitaxel 
+(20 mg/m2 
+i.v.q 3-weekly, 
+up to 10 cycles)","mCRPC post 
+docetaxel, suitable 
+for cabaziaxel","PSA reduction of > 50%:
+66 vs. 37 PSA responses; 66% 
+vs. 37% by ITT; difference 29%
+(95% CI: 16–42; p < 0.0001; 
+and 66% vs. 44% by treatment 
+received; difference 23% [9–37];  
+p = 0.0016)."

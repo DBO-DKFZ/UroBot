@@ -1,0 +1,18 @@
+0,1,2
+Table 2: Thresholds of net benefit and quality of evidence used when creating recommendations,,
+"Net benefit*
+Recommendation
+Note",,
+Pharmacological prophylaxis,,
+> 10 per 1000,STRONG in FAVOUR,If based on moderate or high-quality evidence
+> 10 per 1000,WEAK in FAVOUR,If based on low or very low-quality evidence
+> 5-10 per 1000,WEAK in FAVOUR,"In borderline situations prophylaxis was always favoured 
+as case fatality is higher for VTE than for bleeding [8, 9]"
+> 1-5 per 1000,WEAK AGAINST,
+< 1 per 1000,WEAK AGAINST,If based on low or very low-quality evidence
+< 1 per 1000,STRONG AGAINST,If based on moderate or high-quality evidence
+Mechanical prophylaxis,,
+"> 2.5 per 1000
+WEAK in FAVOUR",,
+"< 2.5 per 1000
+WEAK AGAINST",,

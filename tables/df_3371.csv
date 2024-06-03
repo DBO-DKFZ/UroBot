@@ -1,0 +1,46 @@
+0,1
+"Table 3:  Prognostic-based staging system for metastatic germ cell cancer (IGCCCG) [42, 43]*",
+Good-prognosis group,
+"Non-seminoma
+5-year PFS 90%
+5-year survival 96%","All of the following criteria:
+• Testis/retro-peritoneal primary
+• No non-pulmonary visceral metastases
+• AFP < 1,000 ng/mL
+• hCG < 5,000 IU/L (1,000 ng/mL)
+• LDH < 1.5 x ULN"
+"Seminoma
+5-year PFS 89%
+5-year survival 95%","All of the following criteria:
+• Any primary site
+• No non-pulmonary visceral metastases
+• Normal AFP
+• Any hCG
+• Any LDH"
+Intermediate-prognosis group,
+"Non-seminoma
+5-year PFS 78%
+5-year survival 89%","• Testis/retro-peritoneal primary
+• No non-pulmonary visceral metastases
+And any of the following criteria:
+• AFP 1,000 - 10,000 ng/mL or
+• hCG 5,000 - 50,000 IU/L or
+• LDH 1.5 - 10 x ULN"
+"Seminoma
+5-year PFS 79%
+5-year survival 88%","All of the following criteria:
+• Any primary site
+• Non-pulmonary visceral metastases
+• Normal AFP
+• Any hCG
+• Any LDH"
+Poor-prognosis group,
+"Non-seminoma
+5-year PFS 54%
+5-year survival 67%","Any of the following criteria:
+• Mediastinal primary
+• Non-pulmonary visceral metastases
+• AFP > 10,000 ng/mL or
+• hCG > 50,000 IU/L (10,000 ng/mL) or
+• LDH > 10 x ULN"
+Seminoma,No patients classified as “poor-prognosis”

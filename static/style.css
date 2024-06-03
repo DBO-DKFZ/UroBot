@@ -1,0 +1,154 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  background-color: white;
+  padding: 40px;
+  width: 40%;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+#logo {
+    height: 120px; /* Adjust based on your logo's dimensions */
+    margin-right: 20px;
+}
+
+header div {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+p {
+  color: #999;
+  font-size: 14px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.prompt-form {
+  display: flex;
+  gap: 10px;
+}
+
+textarea[name="query"] {
+  resize: none;
+  width: auto;
+  min-height: 50px;
+  overflow: auto;
+  box-sizing: border-box;
+}
+
+.prompt-form input[type="text"],
+.prompt-form input[type="submit"] {
+  padding: 12px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.prompt-form input[type="text"] {
+  flex: 1;
+}
+
+.prompt-form input[type="submit"] {
+  background-color: #0056b3;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.prompt-form input[type="submit"]:hover {
+  background-color: #004494;
+}
+
+.predefined-questions form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.predefined-questions button {
+  padding: 10px 20px;
+  background-color: #f0f4f9;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.predefined-questions button:hover {
+  background-color: #a0a4a9;
+}
+
+.response-group {
+  display: none;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.response-group.active {
+  display: block;
+}
+
+.text-display {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  background-color: #f9f9f9;
+  color: #333;
+  resize: none;
+  width: 100%;
+}
+.doc-container {
+    border: 1px solid #ddd; /* Border around each document */
+    padding: 10px;          /* Padding inside each document box */
+    margin: 10px 0;         /* Margin between document boxes */
+    background-color: #f9f9f9; /* Light gray background for distinction */
+    border-radius: 5px;     /* Rounded corners for a smoother look */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+footer {
+  text-align: center;
+  margin-top: 40px;
+
+
+}

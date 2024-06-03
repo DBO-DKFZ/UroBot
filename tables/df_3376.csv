@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+Table 9:  The International Prognostic Factors Study Group Score for seminoma and non-seminoma that,,,,,
+"Points
+-1
+0
+1
+2
+3",,,,,
+Variable,,,,,
+Histology,Seminoma,Non-seminoma,,,
+Primary site,,Gonadal,Retroperitoneal,,Mediastinal
+Response,,CR/PRm-,PRm+/SD,PD,
+PFI,,> 3 months,< 3 months,,
+AFP salvage,,Normal,< 1000,1000,
+hCG salvage,,< 1000,1000,,
+LBB,,No,Yes,,

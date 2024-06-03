@@ -1,0 +1,106 @@
+0,1,2,3,4,5
+Table 6.2.4.1: Selected studies assessing local treatment in (any cT) cN1 M0 prostate cancer patients,,,,,
+Study,n,Design,"Study period/
+follow-up","Treatment 
+arms",Effect on survival
+"Bryant, et al. 
+2018 [896]",648,"Retrospective
+(National 
+Veterans Affairs)","2000-2015
+61 mo.",ADT ± EBRT,"Significant benefit for 
+combined treatment only 
+if PSA levels less than the 
+median (26 ng/mL)
+All-cause mortality HR: 0.50 
+CSS, HR: 0.38"
+"Sarkar, et al. 
+2019 [897]",741,"Retrospective
+(National 
+Veterans Affairs)","2000-2015
+51 mo.","ADT ± local 
+treatment 
+(surgery or RT)","Significant benefit for RP
+All cause mortality HR 0.36
+CSS, HR: 0.32
+No statistical difference for 
+RP vs. RT (p > 0.1)
+All-cause mortality HR: 047
+CSS, HR: 0.88"
+"Lin, et al.  
+2015 [886]","983 before 
+propensity 
+score 
+matching","Retrospective 
+(NCDB)","2004-2006
+48 mo.",ADT ± EBRT,"Significant benefit for 
+combined treatment 
+5-yr OS: 73% vs. 52%
+HR: 0.5"
+"Tward, et al. 
+2013 [885]","1,100","Retrospective 
+(SEER)","1988-2006
+64 mo.","EBRT  
+(n = 397) vs. 
+no EBRT  
+(n = 703)
+No information 
+on ADT)","Significant benefit for EBRT 
+5-yr CSS 78% vs. 71%
+HR: 0.66
+5-yr. OS: 68% vs. 56%,  
+HR: 0.70"
+"Rusthoven,  
+et al. 2014 [889]",796,"Retrospective 
+(SEER)","1995-2005
+61 mo.","EBRT vs. no 
+EBRT (no 
+information on 
+ADT)","Significant benefit for EBRT 
+10-yr OS: 45% vs. 29%
+HR: 0.58"
+"Seisen, et al. 
+2018 [887]","1,987","Retrospective 
+(NCDB)","2003-2011
+50 mo.","ADT ± local 
+treatment 
+(surgery or RT)","Significant benefit for 
+combined treatment 
+5-yr OS: 78.8% vs. 49.2%
+HR: 0.31
+No difference between RP 
+and RT"
+"James, et al. 
+2016 [888]",177,"Unplanned sub-
+group analysis 
+RCT","2005-2014
+17 mo.",ADT ± EBRT,"Significant benefit for 
+combined treatment 
+5-yr OS: 93% vs. 71%
+2-yr FFS: 81% vs 53%
+FFS, HR: 0.48"
+"Recommendations 
+Strength rating",,,,,
+Radical prostatectomy (RP),,,,,
+"Offer RP to patients with cN0 disease as part of multi-modal therapy. 
+Weak",,,,,
+Extended pelvic lymph node dissection (ePLND),,,,,
+"Perform an ePLND. 
+Strong",,,,,
+Radiotherapeutic treatments,,,,,
+"Offer patients with cN0 disease intensity-modulated radiation therapy (IMRT)/volumetric 
+modulated arc therapy (VMAT) plus image-guide radiation therapy in combination with  
+long-term androgen deprivation therapy (ADT).",Strong,,,,
+"Offer patients with cN0 disease and good urinary function, IMRT/VMAT plus IGRT with 
+brachytherapy boost (either high-dose rate or low-dose rate), in combination with long-term 
+ADT.",Weak,,,,
+Offer long-term ADT for at least 2 years.,Strong,,,,
+"Offer IMRT/VMAT plus IGRT to the prostate in combination with long-term ADT and 2 years 
+of abiraterone to cN0M0 patients with > 2 high-risk factors (cT3-4, Gleason > 8 or PSA > 40 
+ng/mL).",Strong,,,,
+"Offer IMRT/VMAT plus IGRT to the prostate plus pelvis in combination with long-term ADT 
+and 2 years of abiraterone to cN1M0 patients.",Strong,,,,
+"Offer patients with cN1 disease a local treatment (either RP or IMRT/VMAT plus IGRT) plus 
+long-term ADT.",Strong,,,,
+Therapeutic options outside surgery or radiotherapy,,,,,
+"Do not offer whole gland treatment or focal treatment.
+Strong",,,,,

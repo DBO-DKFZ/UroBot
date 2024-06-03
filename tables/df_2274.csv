@@ -1,0 +1,76 @@
+0,1,2,3,4,5
+"Table 5.4:  Risk data table of clinically significant prostate cancer, related to PI-RADS score and PSA-D",,,,,
+Detection of clinically significant prostate cancer (ISUP grade 2 and higher),,,,,
+,,PSA-density risk groups,,,
+"PI-RADS risk 
+categories","Prevalence ISUP 
+> 2 PCa","Low
+< 0.10","Intermediate-low
+0.10–015","Intermediate-high
+0.15–0.20","High
+> 0.20"
+,,"31%
+(678/2199)","28%
+(612/2199)","16%
+(360/2199)","25%
+(553/2199)"
+"Compiled totals 
+of csPCa risk",,,,,
+PI-RADS 1–2,"6%
+(48/839)","3% 
+(11/411)","7% 
+(17/256)","8% 
+(8/104)","18% 
+(12/68)"
+PI-RADS 3,"16%
+(41/254)","4% 
+(3/74)","13% 
+(11/88)","29% 
+(12/41)","29% 
+(15/51)"
+PI-RADS 4–5,"62%
+(687/1106)","31% 
+(59/189)","54% 
+(144/286)","69% 
+(148/215)","77% 
+(336/434)"
+All PI-RADS,"35%
+(776/2199)","11% 
+(73/674)","28% 
+(172/612)","47% 
+(168/360)","66% 
+(363/553)"
+,,,,,
+Risk-adapted matrix table for biopsy decision management,,,,,
+"PI-RADS 1–2
+No biopsy
+No biopsy
+No biopsy
+Consider biopsy",,,,,
+"PI-RADS 3
+No biopsy
+Consider biopsy
+Highly consider 
+Perform biopsy
+biopsy",,,,,
+"PI-RADS 4–5
+Perform biopsy
+Perform biopsy
+Perform biopsy
+Perform biopsy",,,,,
+very low,0–5% csPCa (below population risk) #,,,,
+low,5–10% csPCa (acceptable risk) ##,,,,
+Intermediate-low,10–20% csPCa,,,,
+Intermediate-high,20–30% csPCa,,,,
+High,30–40% csPCa,,,,
+Very high,> 40% csPCa,,,,
+Recommendations in biopsy-naïve patients,Strength rating,,,,
+Perform MRI before prostate biopsy.,Strong,,,,
+"When MRI is positive (i.e., PI-RADS > 3), combine targeted and systematic biopsy.",Strong,,,,
+"When MRI is negative (i.e., PI-RADS < 2), and clinical suspicion of PCa is low (e.g., PSA 
+density < 0.15 ng/mL), omit biopsy based on shared decision-making with the patient.",Weak,,,,
+Recommendations in patients with prior negative biopsy,Strength rating,,,,
+Perform MRI before prostate biopsy.,Strong,,,,
+"When MRI is positive (i.e., PI-RADS > 3), perform targeted biopsy only.",Weak,,,,
+"When MRI is negative (i.e., PI-RADS < 2), and clinical suspicion of PCa is high, perform 
+systematic biopsy based on shared decision-making with the patient.",Strong,,,,

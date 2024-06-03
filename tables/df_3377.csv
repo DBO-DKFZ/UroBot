@@ -1,0 +1,32 @@
+0,1,2,3,4,5
+Table 10:  Progression-free survival and overall survival estimates for all patients according to IGCCCG,,,,,
+"Score (n = 1,435)",N,%,HR,2-years PFS (%),3-year OS (%)
+Very Low,76,5.30,1,75.1,77.0
+Low,257,17.9,2.07,52.6,69.0
+Intermediate,646,45.0,2.88,42.8,57.3
+High,351,24.5,4.81,26.4,31.7
+Very High,105,7.3,8.95,11.5,14.7
+Missing,159,-,-,-,-
+Summary of evidence,LE,,,,
+"In the NSGCT good-prognosis-risk group (IGCCG), BEP x 3 is superior to other chemotherapy regimens. 
+Toxicity is lower when treatment is delivered in five-day regimes rather than three-day regimes.",1b,,,,
+"In the NSGCT intermediate-prognosis-risk group (IGCCCG) BEP x 4 is the standard treatment of 
+choice with a five-year survival of 89% in contemporary series.",1b,,,,
+"In pathological stage II NSGCT disease, RPLND performed in specialised centres without adjuvant 
+chemotherapy results in 73-81% of long-lasting remissions.",2b,,,,
+"In patients with a poor-prognosis metastatic NSGCT (defined by IGCCCG), treatment with BEP x 4, 
+results in a five-year PFS of 67%. There is no advantage in OS for high-dose chemotherapy.",1b,,,,
+"Patients with a poor-prognosis metastatic NSGCT and early unfavourable tumour marker decline may 
+benefit from intensification of treatment with dose-dense chemotherapy, with improvement of PFS 
+despite no benefit being observed for OS.",1b,,,,
+"Following first-line BEP chemotherapy, 6-10% of NSGCT residual masses contain active cancer, 50% 
+have post-pubertal teratoma, and 40% comprise of necrotic-fibrotic tissue only. Figures regarding 
+persistence of residual active are slightly lower in post chemotherapy residual masses < 1 cm. 
+Currently there is no accurate prognostication method of histology.",2b,,,,
+"In CS IIA/B seminoma radiotherapy and chemotherapy treatment show similar effectiveness, with a 
+non-significant trend towards greater efficacy of chemotherapy in CS IIB. However, risk of second 
+malignancies and cardiovascular events is higher after radiotherapy.",2a,,,,
+"In metastatic seminoma stage > IIC, primary chemotherapy with BEP, tailored to the IGCCCG risk 
+group, has proven superior to Carboplatin based chemotherapy.",1b,,,,
+"Fluorodeoxyglucose-positron emission tomography has a high NPV in patients with post-chemotherapy 
+seminoma residual masses (> 3 cm) when performed more than two months after chemotherapy.",2b,,,,

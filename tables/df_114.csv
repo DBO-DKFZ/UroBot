@@ -1,0 +1,33 @@
+0,1
+"Recommendations 
+Strength rating",
+Primary tumour,
+"Perform a detailed physical examination of the penis and external genitalia, recording 
+morphology, size and location of the penile lesion, including extent and invasion of penile 
+(adjacent) structures.",Strong
+"Perform magnetic resonance imaging (MRI) of the penis/primary tumour (artificial erection 
+not mandatory) when there is uncertainty regarding corporal invasion and/or the feasibility 
+of (organ-sparing) surgery. If MRI is not available, offer ultrasound (US) as alternative option.",Weak
+"Obtain a pre-treatment biopsy of the primary lesion when malignancy is not clinically 
+obvious, or when non-surgical treatment of the primary lesion is planned (e.g., topical 
+agents, laser, radiotherapy).",Strong
+Inguinal lymph nodes (LN),
+"Perform a physical examination of both groins. Record the number, laterality and 
+Strong
+characteristics of any palpable/suspicious inguinal nodes.",
+Clinically node-negative (cN0),
+"If there are no palpable/suspicious nodes (cN0) at physical examination, offer surgical LN 
+staging to all patients at high risk of having micro-metastatic disease (T1b or higher).",Strong
+"In case of T1a G2 disease, also discuss surveillance as an alternative to surgical staging 
+with patients willing to comply with strict follow-up.",Weak
+"When surgical staging is indicated, offer dynamic sentinel node biopsy (DSNB). If DSNB 
+is not available and referral is not feasible, or if preferred by the patient after being well 
+informed, offer inguinal lymph node dissection (ILND) (open or video-endoscopic).",Strong
+"If DSNB is planned, perform inguinal US first, with fine needle aspiration cytology (FNAC) of 
+sonographically abnormal LNs.",Strong
+Clinically node-positive (cN+),
+"If there is a palpable/suspicious node at physical examination (cN+), obtain (image-guided) 
+biopsy to confirm nodal metastasis before initiating treatment.",Strong
+"In cN+ patients, stage the pelvis and exclude distant metastases with 18F-fluoro-2-deoxy-
+D-glucose positron emission tomography (18FDG-PET) computed tomography (CT) or CT of 
+the chest and abdomen before initiating treatment.",Strong

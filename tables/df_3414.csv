@@ -1,0 +1,111 @@
+0,1,2,3,4,5,6,7
+Table 5: Procedure-specific evidence summaries with recommendations for radical prostatectomies,,,,,,,
+Procedure,Outcome,"Baseline risk 
+among 1000 
+patients",,"Net benefit per 
+1000 patients 
+with pharma-
+cological 
+prophylaxis*","Certainty 
+in 
+estimate","Recommendations 
+for pharma-
+cological 
+prophylaxis","Recommendations 
+for mechanical 
+prophylaxis"
+"Prostatectomy, 
+Laparoscopic 
+without pelvic 
+lymph node 
+dissection 
+(PLND)","Venous 
+thrombo-
+embolism",Low-risk,4.0,-1.7,Moderate,Strong - against,Weak – against
+,,Medium-risk,8.0,0.30,Moderate,Weak - against,Weak - for
+,,High-risk,15,4.0,High,Weak - against,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,7.0,,Moderate,,
+"Prostatectomy, 
+Laparoscopic 
+with standard 
+PLND","Venous 
+thrombo-
+embolism",Low-risk,8.0,-1.3,Moderate,Strong - against,Weak - for
+,,Medium-risk,15,2.2,Moderate,Weak - against,Weak - for
+,,High-risk,30,10,High,Strong - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,10,,Moderate,,
+"Prostatectomy, 
+Laparoscopic 
+with extended 
+PLND","Venous 
+thrombo-
+embolism",Low-risk,15,0.10,Moderate,Weak - against,Weak - for
+,,Medium-risk,30,7.6,High,Weak - for,Weak - for
+,,High-risk,60,23,High,Strong - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,14,,Moderate,,
+"Prostatectomy, 
+Open without 
+PLND","Venous 
+thrombo-
+embolism",Low-risk,10,4.5,Moderate,Weak - for,Weak - for
+,,Medium-risk,20,9.5,Moderate,Strong - for,Weak – for
+,,High-risk,39,19,High,Strong - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,1.0,,Moderate,,
+"Prostatectomy, 
+Open with 
+standard PLND","Venous 
+thrombo-
+embolism",Low-risk,20,8.9,Moderate,Weak – for,Weak - for
+,,Medium-risk,39,18,High,Strong - for,Weak - for
+,,High-risk,79,38,High,Strong -for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,2.0,,Moderate,,
+"Prostatectomy, 
+Open with 
+extended PLND","Venous 
+thrombo-
+embolism",Low-risk,39,18,Moderate,Strong - for,Weak - for
+,,Medium-risk,79,38,High,Strong - for,Weak - for
+,,High-risk,157,77,High,Strong - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,2.0,,Moderate,,
+"Prostatectomy, 
+Robotic 
+without PLND","Venous 
+thrombo-
+embolism",Low-risk,2.0,-1.1,Moderate,Strong - against,Weak - against
+,,Medium-risk,5.0,0.40,Moderate,Weak - against,Weak - for
+,,High-risk,9.0,2.4,Moderate,Weak - against,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,4.0,,Moderate,,
+"Prostatectomy, 
+Robotic with 
+standard PLND","Venous 
+thrombo-
+embolism",Low-risk,5.0,-0.7,Moderate,Strong - against,Weak - for
+,,Medium-risk,9.0,1.3,Moderate,Weak - against,Weak - for
+,,High-risk,19,6.3,Moderate,Weak - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,6.0,,Moderate,,
+"Prostatectomy, 
+Robotic with 
+extended PLND","Venous 
+thrombo-
+embolism",Low-risk,9.0,0.3,Moderate,Weak - against,Weak - for
+,,Medium-risk,19,5.3,Moderate,Weak - for,Weak - for
+,,High-risk,37,14,Moderate,Strong - for,Weak - for
+,"Bleeding 
+requiring 
+reoperation",,8.0,,Moderate,,

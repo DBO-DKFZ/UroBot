@@ -1,0 +1,60 @@
+0,1
+7.4.4.1.2  Summary of evidence and recommendations for immunotherapy in cc-mRCC,
+"Summary of evidence 
+LE",
+Treatment-naïve patients,
+"Currently, PD-L1 expression is not used for patient selection.",2b
+"The combination of nivolumab and ipilimumab in treatment-naïve patients with cc-mRCC of IMDC 
+intermediate- and poor risk demonstrated OS and ORR benefits compared to sunitinib alone.",1b
+"The combination of pembrolizumab plus axitinib, lenvatinib plus pembrolizumab and nivolumab plus 
+cabozantinib in treatment-naïve patients with cc-mRCC across all IMDC risk groups demonstrated 
+PFS, OS and ORR benefits compared to sunitinib.",1b
+"Nivolumab plus ipilimumab, pembrolizumab plus axitinib, nivolumab plus cabozantinib and lenvatinib 
+plus pembrolizumab should be administered in centres with experience of immune combination 
+therapy and appropriate supportive care within the context of a multidisciplinary team.",4
+"The combination of nivolumab plus ipilimumab in the IMDC intermediate- and poor-risk population of 
+treatment-naïve patients with cc-mRCC leads to superior survival compared to sunitinib.",2b
+Sequencing systemic therapy,
+"Nivolumab leads to superior OS compared to everolimus in disease progression after one or two lines 
+of VEGF-targeted therapy.",1b
+"Axitinib, cabozantinib or lenvatinib can be continued if immune-related AEs result in cessation 
+of axitinib plus pembrolizumab, cabozantinib plus nivolumab or lenvatinib plus pembrolizumab. 
+Re-challenge with immunotherapy requires expert support.",4
+"Patients who do not receive the full four doses of ipilimumab due to toxicity should continue on single-
+agent nivolumab, where safe and feasible. Re-challenge with combination therapy requires expert 
+support.",4
+"Treatment past progression can be justified but requires close scrutiny and the support of an expert 
+multidisciplinary team.",1b
+"Nivolumab plus ipilimumab was associated with 46% grade 3–4 toxicity and 1.5% treatment-related 
+deaths. Tyrosine kinase inhibitor-based IO combination therapies were associated with grade 3–5 
+toxicity ranging between 61–72% and 1% of treatment-related deaths.",1b
+"Recommendations
+Strength rating",
+Treatment-naïve patients,
+Offer treatment with PD1 combinations in centres with experience.,Weak
+"Offer either nivolumab plus ipilimumab, pembrolizumab plus axitinib, or lenvatinib plus 
+pembrolizumab, or nivolumab plus cabozantinib to treatment-naive patients with IMDC 
+intermediate- or poor-risk disease.",Strong
+"Offer either pembrolizumab plus axitinib, lenvatinib plus pembrolizumab or nivolumab plus 
+cabozantinib to treatment-naïve patients with IMDC favourable risk.",Weak
+Offer sunitinib or pazopanib to treatment-naive patients with IMDC favourable risk.,Weak
+"Offer sunitinib or pazopanib to treatment-naive cc-mRCC patients with any IMDC risk who 
+cannot receive or tolerate immune checkpoint inhibition.",Strong
+"Offer cabozantinib to treatment-naive patients with IMDC intermediate- and poor-risk 
+cc-mRCC who cannot receive or tolerate immune checkpoint inhibition.",Stronga
+"Patients who do not receive the full four doses of ipilimumab due to toxicity should continue 
+on single-agent nivolumab, where safe and feasible. Re-challenge with combination therapy 
+requires expert support.",Weak
+Sequencing systemic therapy,
+Sequence systemic therapy in treating mRCC.,Strong
+"Offer VEGF-tyrosine kinase inhibitors as second-line therapy to patients refractory to 
+nivolumab plus ipilimumab or axitinib plus pembrolizumab or cabozantinib plus nivolumab or 
+lenvatinib plus pembrolizumab.",Weak
+"Sequencing the agent not used as second-line therapy (nivolumab or cabozantinib) for third-
+line therapy is recommended.",Weak
+"Offer nivolumab or cabozantinib to those patients who received first-line VEGF targeted 
+therapy alone.",Strong
+"Treatment past progression can be justified but requires close scrutiny and the support of an 
+expert multi disciplinary team.",Weak
+"Do not re-challenge patients who stopped immune checkpoint inhibitors because of toxicity 
+without expert guidance and support from a multidisciplinary team.",Strong

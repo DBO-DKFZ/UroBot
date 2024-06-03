@@ -1,0 +1,27 @@
+0,1,2
+Table 5.2: Risk of PCa identified by systemic PCa biopsy in relation to low PSA values [173],,
+"Offer a risk-adapted strategy (based on initial PSA level), with follow-up intervals of 2 years 
+for those initially at risk:
+• 
+men with a PSA level of > 1 ng/mL at 40 years of age;
+• 
+men with a PSA level of > 2 ng/mL at 60 years of age;
+Postpone follow-up up to 8 years in those not at risk.",Weak,
+"In asymptomatic men with a prostate-specific antigen (PSA) level between 3–10 ng/mL and 
+a normal digital rectal examination (DRE), repeat the PSA test prior to further investigations.",Weak,
+"In asymptomatic men with a PSA level between 3–10 ng/mL and a normal DRE, use one of 
+the following tools for biopsy indication:
+• 
+risk-calculator, provided it is correctly calibrated to the population prevalence;
+• 
+magnetic resonance imaging of the prostate;",Strong,
+"• 
+an additional serum, urine biomarker test.",Weak,
+"Stop early diagnosis of PCa based on life expectancy and performance status; men who 
+have a life-expectancy of < 15 years are unlikely to benefit.",Strong,
+PSA level (ng/mL),Risk of PCa (%),Risk of ISUP grade > 2 PCa (%)
+0.0–0.5,6.6,0.8
+0.6–1.0,10.1,1.0
+1.1–2.0,17.0,2.0
+2.1–3.0,23.9,4.6
+3.1–4.0,26.9,6.7

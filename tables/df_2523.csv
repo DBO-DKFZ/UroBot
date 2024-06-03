@@ -1,0 +1,14 @@
+0,1
+Table 6.2: Cancer-specific survival by stage [15],
+Grade,HR (95% CI)
+T1N0M0,Referent
+T2N0M0,2.71 (2.17–3.39)
+T3N0M0,5.20 (4.36–6.21)
+T4N0M0,16.88 (12.40–22.98)
+N+M0,16.33 (12.89–20.73)
+M+,33.23 (28.18–39.18)
+Recommendations,Strength rating
+"Use the current Tumour, Node, Metastasis classification system.",Strong
+Use the WHO/ISUP grading system and classify renal cell carcinoma type.,Strong
+Use prognostic models in localised and metastatic disease.,Strong
+Do not routinely use molecular markers to assess prognosis.,Strong

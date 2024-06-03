@@ -1,0 +1,32 @@
+0,1
+Table 5.8: Cumulative Illness Score Rating-Geriatrics (CISR-G),
+1,Cardiac (heart only)
+2,Hypertension (rating is based on severity; affected systems are rated separately)
+3,"Vascular (blood, blood vessels and cells, marrow, spleen, lymphatics)"
+4,"Respiratory (lungs, bronchi, trachea below the larynx)"
+5,"ENT (eye, ear, nose, throat, larynx)"
+6,"Upper GI (esophagus, stomach, duodenum. Biliar and parcreatic trees; do not include diabetes)"
+7,"Lower GI (intestines, hernias)"
+8,Hepatic (liver only)
+9,Renal (kidneys only)
+10,"Other GU (ureters, bladder, urethra, prostate, genitals)"
+11,"Musculo-Skeletal-Integumentary (muscles, bone, skin)"
+12,"Neurological (brain, spinal cord, nerves; do not include dementia)"
+13,"Endocrine-Metabolic (includes diabetes, diffuse infections, infections, toxicity)"
+14,"Psychiatric/Behavioural (includes dementia, depression, anxiety, agitation, psychosis)"
+,"All body systems are scores on a 0 - 4 scale.
+- 0: No problem affecting that system.
+- 1: Current mild problem or past significant problem.
+- 2: Moderate disability or morbidity and/or requires first line therapy.
+- 3:  Severe problem and/or constant and significant disability and/or hard to control chronic problems.
+- 4:  Extremely severe problem and/or immediate treatment required and/or organ failure and/or 
+severe functional impairment."
+Total score 0-56,
+Recommendations,Strength rating
+"Use individual life expectancy, health status, and co-morbidity in PCa management.",Strong
+"Use the Geriatric-8, mini-COG and Clinical Frailty Scale tools for health status screening.",Strong
+Perform a full specialist geriatric evaluation in patients with a G8 score < 14.,Strong
+"Consider standard treatment in vulnerable patients with reversible impairments (after 
+resolution of geriatric problems) similar to fit patients, if life expectancy is > 10 years.",Weak
+Offer adapted treatment to patients with irreversible impairment.,Weak
+Offer symptom-directed therapy alone to frail patients.,Strong

@@ -1,0 +1,49 @@
+0,1,2
+Table 5.7: G8 screening tool (adapted from [473]),,
+,Items,Possible responses (score)
+A,"Has food intake declined over the past 3 months 
+due to loss of appetite, digestive problems, 
+chewing, or swallowing difficulties?",0 = severe decrease in food intake
+,,1 = moderate decrease in food intake
+,,2 = no decrease in food intake
+B,Weight loss during the last 3 months?,0 = weight loss > 3 kg
+,,1 = does not know
+,,2 = weight loss between 1 and 3 kg
+,,3 = no weight loss
+C,Mobility?,0 = bed or chair bound
+,,1 = able to get out of bed/chair but does not go out
+,,2 = goes out
+D,Neuropsychological problems?,0 = severe dementia or depression
+,,1 = mild dementia
+,,2 = no psychological problems
+E,BMI? (weight in kg)/(height in m2),0 = BMI < 19
+,,1 = BMI 19 to < 21
+,,2 = BMI 21 to < 23
+,,3 = BMI > 23
+F,"Takes more than three prescription drugs per 
+day?",0 = yes
+,,1 = no
+G,"In comparison with other people of the same 
+age, how does the patient consider his/her health 
+status?",0.0 = not as good
+,,0.5 = does not know
+,,1.0 = as good
+,,2.0 = better
+H,Age,0 = > 85
+,,1 = 80-85
+,,2 = < 80
+,Total score,0-17
+"-
+Abnormal  ADL: > 2
+- Weight loss > 10% 
+-
+Comorbidities CISR-G 
+grades 3-4",,
+,,
+"-
+Abnormal ADL: 1 or 2
+- Weight loss 5-10%
+-
+Comorbidities CISR-G
+grades 1-2",,
+,,

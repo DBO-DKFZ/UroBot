@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+"Table 6.3.8:  Oncological results of selected salvage cryoablation of the prostate case series, including at",,,,,
+Study,n,"Median 
+FU (mo)","Time point 
+of outcome 
+measurement 
+(yr)",BCR-free probability,Definition of failure
+"Ginsburg, et al. 2017 [1084]",898,19.0,5,71.3%,Phoenix criteria
+"Spiess, et al. 2010 [1085]",450,40.8,3.4,39.6%,PSA > 0.5 ng/mL
+"Li, et al. 2015 [1086]",486,18.2,5,63.8%,Phoenix criteria
+"Kovac, et al. 2016 [1087]",486,18.2,5,"75.5%  
+(nadir PSA < 0.4 ng/mL);
+22.1%  
+(nadir PSA > 0.4 ng/mL)",Phoenix criteria
+"Ahmad, et al. 2013 [1088]",283,23.9,3,"67.0%  
+(nadir PSA < 1 ng/mL);
+14.0%  
+(nadir PSA > 1 ng/mL)",Phoenix criteria
+"Pisters, et al. 2008 [1089]",279,21.6,5,"58.9% (ASTRO)
+54.5% (Phoenix)","ASTRO and Phoenix 
+criteria"

@@ -1,0 +1,14 @@
+0,1,2,3
+Table 4.2 UICC TNM Stage/Prognostic Groups [73],,,
+Stage,T,N,M
+0,Tis,N0,M0
+,Ta,N0,M0
+I,T1a,N0,M0
+IIA,T1b,N0,M0
+,T2,N0,M0
+IIB,T3,N0,M0
+IIIA,T1–3,N1,M0
+IIIB,T1–3,N2,M0
+IV,T4,Any N,M0
+,Any T,N3,M0
+,Any T,Any N,M1
