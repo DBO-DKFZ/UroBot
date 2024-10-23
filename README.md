@@ -30,4 +30,5 @@ UroBot is an advanced urology-specialized chatbot designed to enhance medical qu
     
 #### Citation
 
-Hetz, M. J., Carl, N., Haggenmüller, S., Wies, C., Michel, M. S., Wessels, F., & Brinker, T. J. (2024). Superhuman performance in urology board questions by an explainable large language model enabled for context integration of the European Association of Urology guidelines: the UroBot study. arXiv preprint.
+Martin J. Hetz, Nicolas Carl, Sarah Haggenmüller, Christoph Wies, Jakob Nikolas Kather, Maurice Stephan Michel, Frederik Wessels, Titus J. Brinker: Superhuman Performance on Urology Board Questions Using an Explainable Language Model Enhanced with European Association of Urology Guidelines
+ESMO Real World Data and Digital Oncology 2024, DOI: https://doi.org/10.1016/j.esmorw.2024.100078
