@@ -1,9 +1,7 @@
 # UroBot
 Urology-informed Large Language Model
 
-UroBot is an advanced urology-specialized chatbot designed to enhance medical question-answering by leveraging the capabilities of large language models (LLMs) like GPT-3.5, GPT-4, and GPT-4o from OpenAI. Utilizing retrieval augmented generation (RAG) and the latest 2023 European Association of Urology (EAU) guidelines, UroBot aims to deliver accurate and explainable responses to urological board questions. In a comprehensive evaluation involving 200 European Board of Urology (EBU) In-Service Assessment (ISA) questions, UroBot-4o achieved a mean Rate of Correct Answers (RoCA) of 88.4%, significantly surpassing the performance of GPT-4o and typical urologists, with high consistency.
-
-![Example Image](static/interface.png)
+UroBot is an advanced urology-specialized chatbot designed to enhance medical question-answering by leveraging the capabilities of large language models (LLMs) like GPT-3.5, GPT-4, and GPT-4o from OpenAI. Utilizing retrieval augmented generation (RAG) and the latest 2023 European Association of Urology (EAU) guidelines, UroBot aims to deliver accurate and explainable responses to urological board questions. In a comprehensive evaluation involving 200 European Board of Urology (EBU) In-Service Assessment (ISA) questions, UroBot-4o achieved a mean Rate of Correct Answers (RoCA) of 88.4%, significantly surpassing the performance of GPT-4o and typical urologists, with high consistency. You can run this with different guidelines.
 
 ### How to Run the UroBot Flask App Locally
 
